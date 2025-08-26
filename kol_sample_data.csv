@@ -1,0 +1,480 @@
+kol_name,ticker,sector,sentiment,confidence,prediction_time,video_id,title,company,sentiment_score
+Invest with Henry,GS,Financials,positive,1.0,2024-12-27 21:16:52+00:00,BfZjRQ6k49E,Selling Put Options for Beginners FULL FREE COURSE (2+ Hours),Goldman Sachs,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-27 21:16:52+00:00,BfZjRQ6k49E,Selling Put Options for Beginners FULL FREE COURSE (2+ Hours),Nvidia,0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-12-27 21:16:52+00:00,BfZjRQ6k49E,Selling Put Options for Beginners FULL FREE COURSE (2+ Hours),Microsoft,1.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-26 19:44:32+00:00,wpZdY0eR4WU,If You Hold PALANTIR STOCK (PLTR) ... GET READY,Nvidia,0.5
+Invest with Henry,GS,Financials,negative,1.0,2024-12-26 19:44:32+00:00,wpZdY0eR4WU,If You Hold PALANTIR STOCK (PLTR) ... GET READY,Goldman Sachs,-0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-21 16:58:24+00:00,RfHcqSqrsUs,URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #TSLA #PLTR #NVDA #AMD,Nvidia,1.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-12-21 16:58:24+00:00,RfHcqSqrsUs,URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #TSLA #PLTR #NVDA #AMD,Amazon,0.7
+Invest with Henry,GS,Financials,negative,0.9,2024-12-21 16:58:24+00:00,RfHcqSqrsUs,URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #TSLA #PLTR #NVDA #AMD,Goldman Sachs,-0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-20 14:45:03+00:00,hRn5OZWKlso,"These 2 Stocks Are About to EXPLODE, Says Tom Lee",Nvidia,1.0
+Invest with Henry,MS,Financials,negative,1.0,2024-12-20 14:45:03+00:00,hRn5OZWKlso,"These 2 Stocks Are About to EXPLODE, Says Tom Lee",Morgan Stanley,0.0
+Invest with Henry,AVGO,Information Technology,negative,0.9,2024-12-20 14:45:03+00:00,hRn5OZWKlso,"These 2 Stocks Are About to EXPLODE, Says Tom Lee",Broadcom,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-12-18 21:50:46+00:00,XpWMjvWVz_U,Why I'm Buying Nvidia Stock (NVDA) NOW - Analysts Are WRONG,Nvidia,0.9
+Invest with Henry,AVGO,Information Technology,positive,0.9,2024-12-18 21:50:46+00:00,XpWMjvWVz_U,Why I'm Buying Nvidia Stock (NVDA) NOW - Analysts Are WRONG,Broadcom,0.7
+Invest with Henry,INTC,Information Technology,negative,0.9,2024-12-18 21:50:46+00:00,XpWMjvWVz_U,Why I'm Buying Nvidia Stock (NVDA) NOW - Analysts Are WRONG,Intel,-0.8
+Invest with Henry,INTC,Information Technology,negative,0.9,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Intel,-0.7
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Nvidia,0.2
+Invest with Henry,BAC,Financials,negative,0.9,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Bank of America,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.95,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Amazon,0.0
+Invest with Henry,MSFT,Information Technology,negative,0.95,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Microsoft,0.0
+Invest with Henry,ABNB,Consumer Discretionary,positive,0.9,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Airbnb,0.5
+Invest with Henry,GS,Financials,negative,0.9,2024-12-16 18:19:56+00:00,bbuEFmIDxp8,$500 Into This Stock Will Surpass Your Full Time Job,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-15 15:30:19+00:00,gMSr_XFQrwU,URGENT: WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #AMD,Nvidia,0.8
+Invest with Henry,GS,Financials,negative,1.0,2024-12-15 15:30:19+00:00,gMSr_XFQrwU,URGENT: WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #AMD,Goldman Sachs,-0.2
+Invest with Henry,UBER,Industrials,positive,0.9,2024-12-14 15:30:22+00:00,p3gMXWKtP-M,If You Hold TESLA STOCK (TSLA) ... GET READY,Uber,0.5
+Invest with Henry,MCD,Consumer Discretionary,negative,0.8,2024-12-14 15:30:22+00:00,p3gMXWKtP-M,If You Hold TESLA STOCK (TSLA) ... GET READY,McDonald's,0.0
+Invest with Henry,MS,Financials,negative,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Morgan Stanley,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Nvidia,0.6
+Invest with Henry,INTC,Information Technology,negative,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Intel,-0.5
+Invest with Henry,MSFT,Information Technology,positive,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Microsoft,0.8
+Invest with Henry,WMT,Consumer Staples,positive,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Walmart,0.9
+Invest with Henry,SBUX,Consumer Discretionary,negative,0.9,2024-12-13 14:30:07+00:00,EKVJnJC9lzw,Top 3 Stocks I'm Buying to Make MILLIONS in 2025,Starbucks,-0.5
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-08 14:15:01+00:00,Qy1Uzkk4q0M,WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #SMCI,Nvidia,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-12-08 14:15:01+00:00,Qy1Uzkk4q0M,WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #SMCI,Amazon,0.2
+Invest with Henry,GS,Financials,negative,0.9,2024-12-08 14:15:01+00:00,Qy1Uzkk4q0M,WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #SMCI,Goldman Sachs,0.0
+Invest with Henry,BLK,Financials,positive,0.9,2024-12-08 14:15:01+00:00,Qy1Uzkk4q0M,WATCH BEFORE MONDAY 930am! #SOFI #TSLA #PLTR #NVDA #SPY #SMCI,BlackRock,0.2
+Invest with Henry,BAC,Financials,positive,1.0,2024-12-07 16:00:36+00:00,eVifPL2xAPM,"I JUST Invested $1.5 MILLION in Tesla Stock (TSLA), Here's Why",Bank of America,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-12-07 16:00:36+00:00,eVifPL2xAPM,"I JUST Invested $1.5 MILLION in Tesla Stock (TSLA), Here's Why",Nvidia,0.9
+Invest with Henry,GS,Financials,negative,1.0,2024-12-07 16:00:36+00:00,eVifPL2xAPM,"I JUST Invested $1.5 MILLION in Tesla Stock (TSLA), Here's Why",Goldman Sachs,0.0
+Invest with Henry,GS,Financials,negative,0.9,2024-12-05 14:30:08+00:00,Is662tG7DzE,Palantir Stock (PLTR) Unusual Options Opportunity (DO THIS NOW),Goldman Sachs,0.0
+Invest with Henry,PLTR,Information Technology,positive,0.95,2024-11-30 22:30:06+00:00,A3Mq7iq_jpk,WATCH BEFORE MONDAY 930am! #SOFI #PLTR #TSLA #NVDA #SPY #SMCI,Palantir Technologies,0.9
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-11-30 22:30:06+00:00,A3Mq7iq_jpk,WATCH BEFORE MONDAY 930am! #SOFI #PLTR #TSLA #NVDA #SPY #SMCI,Nvidia,0.9
+Invest with Henry,PYPL,Financials,positive,0.9,2024-11-30 22:30:06+00:00,A3Mq7iq_jpk,WATCH BEFORE MONDAY 930am! #SOFI #PLTR #TSLA #NVDA #SPY #SMCI,PayPal,0.2
+Invest with Henry,GS,Financials,negative,0.95,2024-11-30 22:30:06+00:00,A3Mq7iq_jpk,WATCH BEFORE MONDAY 930am! #SOFI #PLTR #TSLA #NVDA #SPY #SMCI,Goldman Sachs,-0.5
+Invest with Henry,BAC,Financials,negative,0.95,2024-11-30 22:30:06+00:00,A3Mq7iq_jpk,WATCH BEFORE MONDAY 930am! #SOFI #PLTR #TSLA #NVDA #SPY #SMCI,Bank of America,-0.2
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Nvidia,0.9
+Invest with Henry,NFLX,Communication Services,positive,1.0,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Netflix,0.5
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Microsoft,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Amazon,0.8
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Kraft Heinz,0.5
+Invest with Henry,BAC,Financials,positive,1.0,2024-11-29 20:30:00+00:00,BdAalfGEON8,"RETIRE EARLY ON JUST $212,000 With The Wheel Strategy on THESE Stocks",Bank of America,0.5
+Invest with Henry,NVDA,Information Technology,positive,0.98,2024-11-28 14:30:01+00:00,45292DvRbvw,Top 4 Options I'm Buying NOW (10% in December 2024),Nvidia,0.95
+Invest with Henry,GS,Financials,negative,0.9,2024-11-28 14:30:01+00:00,45292DvRbvw,Top 4 Options I'm Buying NOW (10% in December 2024),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-11-27 15:00:11+00:00,DdK02X_6890,Maximize Profits on Tesla Stock (TSLA) WITHOUT Buying More Shares!,Nvidia,0.7
+Invest with Henry,GS,Financials,negative,0.9,2024-11-27 15:00:11+00:00,DdK02X_6890,Maximize Profits on Tesla Stock (TSLA) WITHOUT Buying More Shares!,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-11-26 19:00:17+00:00,Z38SDPa7TKk,Make Consistent Passive Income by Selling Covered Calls (Options for Beginners),Amazon,0.1
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-26 19:00:17+00:00,Z38SDPa7TKk,Make Consistent Passive Income by Selling Covered Calls (Options for Beginners),Nvidia,0.8
+Invest with Henry,GS,Financials,negative,0.9,2024-11-26 19:00:17+00:00,Z38SDPa7TKk,Make Consistent Passive Income by Selling Covered Calls (Options for Beginners),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-25 14:00:07+00:00,6lfcSLiyjho,Nvidia Stock (NVDA) Shareholders MUST DO THIS After Earnings!,Nvidia,0.9
+Invest with Henry,BAC,Financials,negative,0.9,2024-11-25 14:00:07+00:00,6lfcSLiyjho,Nvidia Stock (NVDA) Shareholders MUST DO THIS After Earnings!,Bank of America,0.0
+Invest with Henry,GS,Financials,positive,0.9,2024-11-20 16:30:07+00:00,btZrYjyvZWw,Selling Puts on Palantir Stock (PLTR) to Maximize Profits,Goldman Sachs,0.5
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-20 16:30:07+00:00,btZrYjyvZWw,Selling Puts on Palantir Stock (PLTR) to Maximize Profits,Nvidia,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-18 15:00:10+00:00,6KA8xMwHrjg,Nvidia Stock (NVDA) Shareholders MUST DO THIS BEFORE EARNINGS,Nvidia,0.9
+Invest with Henry,GS,Financials,negative,1.0,2024-11-18 15:00:10+00:00,6KA8xMwHrjg,Nvidia Stock (NVDA) Shareholders MUST DO THIS BEFORE EARNINGS,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-11-16 18:30:20+00:00,HIf75Bv63zs,Top 3 Options Strategies to Reach $500K FAST,Nvidia,0.7
+Invest with Henry,GS,Financials,positive,0.95,2024-11-16 18:30:20+00:00,HIf75Bv63zs,Top 3 Options Strategies to Reach $500K FAST,Goldman Sachs,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-15 18:41:03+00:00,Jql1SyWuW_w,URGENT: Nvidia Stock (NVDA) Shareholders Need to Do THIS ASAP!,Nvidia,1.0
+Invest with Henry,GS,Financials,negative,1.0,2024-11-15 18:41:03+00:00,Jql1SyWuW_w,URGENT: Nvidia Stock (NVDA) Shareholders Need to Do THIS ASAP!,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-11-15 18:41:03+00:00,Jql1SyWuW_w,URGENT: Nvidia Stock (NVDA) Shareholders Need to Do THIS ASAP!,Amazon,0.5
+Invest with Henry,PYPL,Financials,positive,1.0,2024-11-15 18:41:03+00:00,Jql1SyWuW_w,URGENT: Nvidia Stock (NVDA) Shareholders Need to Do THIS ASAP!,PayPal,0.5
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-11-15 18:41:03+00:00,Jql1SyWuW_w,URGENT: Nvidia Stock (NVDA) Shareholders Need to Do THIS ASAP!,Starbucks,0.5
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-11-14 17:24:49+00:00,F-Qgzn2dCwU,Maximize Profits on Palantir Stock (PLTR) WITHOUT Buying More Shares!,Nvidia,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-11-14 17:24:49+00:00,F-Qgzn2dCwU,Maximize Profits on Palantir Stock (PLTR) WITHOUT Buying More Shares!,Amazon,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-13 15:12:37+00:00,pjUTGjhsajI,URGENT: Tesla Stock (TSLA) Shareholders Need to Do THIS ASAP,Nvidia,0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-11-13 15:12:37+00:00,pjUTGjhsajI,URGENT: Tesla Stock (TSLA) Shareholders Need to Do THIS ASAP,Microsoft,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-11-13 15:12:37+00:00,pjUTGjhsajI,URGENT: Tesla Stock (TSLA) Shareholders Need to Do THIS ASAP,Amazon,0.7
+Invest with Henry,NVDA,Information Technology,negative,0.9,2024-11-12 21:09:10+00:00,MMIw8uLZOH4,SELLING PUTS ON SPY: The Best Hack to Grow Smaller Accounts | OPTIONS TRADING,Nvidia,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.9,2024-11-12 21:09:10+00:00,MMIw8uLZOH4,SELLING PUTS ON SPY: The Best Hack to Grow Smaller Accounts | OPTIONS TRADING,Amazon,0.0
+Invest with Henry,MSFT,Information Technology,negative,0.9,2024-11-12 21:09:10+00:00,MMIw8uLZOH4,SELLING PUTS ON SPY: The Best Hack to Grow Smaller Accounts | OPTIONS TRADING,Microsoft,0.0
+Invest with Henry,AVGO,Information Technology,negative,0.9,2024-11-12 21:09:10+00:00,MMIw8uLZOH4,SELLING PUTS ON SPY: The Best Hack to Grow Smaller Accounts | OPTIONS TRADING,Broadcom,0.0
+Invest with Henry,BRK.B,Financials,negative,0.9,2024-11-12 21:09:10+00:00,MMIw8uLZOH4,SELLING PUTS ON SPY: The Best Hack to Grow Smaller Accounts | OPTIONS TRADING,Berkshire Hathaway,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-11-10 19:45:02+00:00,k2WVXt8U01g,Pro Trader Explains Rolling Options to Avoid Losing Money,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-10 19:45:02+00:00,k2WVXt8U01g,Pro Trader Explains Rolling Options to Avoid Losing Money,Nvidia,0.7
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-11-10 19:45:02+00:00,k2WVXt8U01g,Pro Trader Explains Rolling Options to Avoid Losing Money,Starbucks,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Amazon,0.5
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Nvidia,0.9
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Starbucks,0.7
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Walmart,0.9
+Invest with Henry,GS,Financials,negative,0.9,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Goldman Sachs,0.0
+Invest with Henry,PYPL,Financials,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",PayPal,1.0
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Microsoft,0.7
+Invest with Henry,COIN,Financials,negative,0.9,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Coinbase,-0.6
+Invest with Henry,ABNB,Consumer Discretionary,positive,0.9,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Airbnb,0.4
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-11-09 21:35:15+00:00,X_65DAMIzPE,"These Options Strategies Made Me $316,999 (Options for Beginners)",Kraft Heinz,0.8
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-11-08 21:29:12+00:00,BMI4rXieiuY,Tesla Stock (TSLA) is About to Explode - Dan Ives Says DO THIS NOW,Nvidia,0.7
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-11-07 19:18:12+00:00,xiiWMo2sfqc,"How I Print $5,000–$10,000/Week Using the Wheel Strategy (Free Course)",Nvidia,0.9
+Invest with Henry,PYPL,Financials,positive,0.9,2024-11-07 19:18:12+00:00,xiiWMo2sfqc,"How I Print $5,000–$10,000/Week Using the Wheel Strategy (Free Course)",PayPal,0.6
+Invest with Henry,GS,Financials,negative,0.95,2024-11-07 19:18:12+00:00,xiiWMo2sfqc,"How I Print $5,000–$10,000/Week Using the Wheel Strategy (Free Course)",Goldman Sachs,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-11-06 16:15:05+00:00,yP4ifmK2oAo,3 Quick Tips to Make $10K Monthly With Covered Calls (Easy Money),Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-11-06 16:15:05+00:00,yP4ifmK2oAo,3 Quick Tips to Make $10K Monthly With Covered Calls (Easy Money),Amazon,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-06 16:15:05+00:00,yP4ifmK2oAo,3 Quick Tips to Make $10K Monthly With Covered Calls (Easy Money),Nvidia,0.7
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-11-05 15:27:40+00:00,e9EoKE7kXBY,URGENT PALANTIR IS ABOUT TO DO THIS!,Nvidia,0.7
+Invest with Henry,FDS,Financials,negative,0.9,2024-11-05 15:27:40+00:00,e9EoKE7kXBY,URGENT PALANTIR IS ABOUT TO DO THIS!,FactSet,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-11-01 17:25:36+00:00,bpwXUxqdGsM,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Nvidia,1.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-29 21:31:27+00:00,8n8oQVUjWzI,Perfect Time To Buy Calls for High Growth (Nvidia Stock),Nvidia,0.9
+Invest with Henry,INTC,Information Technology,negative,1.0,2024-10-29 21:31:27+00:00,8n8oQVUjWzI,Perfect Time To Buy Calls for High Growth (Nvidia Stock),Intel,-0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-10-28 18:00:15+00:00,OQhahDREU0g,Secret Options Trading Strategies to Outsmart the Market (Full Course),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-28 18:00:15+00:00,OQhahDREU0g,Secret Options Trading Strategies to Outsmart the Market (Full Course),Nvidia,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-10-28 18:00:15+00:00,OQhahDREU0g,Secret Options Trading Strategies to Outsmart the Market (Full Course),Amazon,0.1
+Invest with Henry,MTCH,Communication Services,negative,1.0,2024-10-28 18:00:15+00:00,OQhahDREU0g,Secret Options Trading Strategies to Outsmart the Market (Full Course),Match Group,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-10-27 15:45:01+00:00,TgNzibRAtx4,DO NOT Buy Tesla Stock (TSLA) Until It Hits THIS Price (Earnings Update),Amazon,0.7
+Invest with Henry,MCD,Consumer Discretionary,negative,0.9,2024-10-27 15:45:01+00:00,TgNzibRAtx4,DO NOT Buy Tesla Stock (TSLA) Until It Hits THIS Price (Earnings Update),McDonald's,0.0
+Invest with Henry,GS,Financials,negative,0.9,2024-10-27 15:45:01+00:00,TgNzibRAtx4,DO NOT Buy Tesla Stock (TSLA) Until It Hits THIS Price (Earnings Update),Goldman Sachs,0.0
+Invest with Henry,PLTR,Information Technology,positive,0.9,2024-10-27 15:45:01+00:00,TgNzibRAtx4,DO NOT Buy Tesla Stock (TSLA) Until It Hits THIS Price (Earnings Update),Palantir Technologies,0.7
+Invest with Henry,SLB,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),Schlumberger,0.8
+Invest with Henry,XOM,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),ExxonMobil,0.9
+Invest with Henry,COP,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),ConocoPhillips,0.7
+Invest with Henry,WMB,Energy,positive,0.8,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),Williams Companies,0.7
+Invest with Henry,PSX,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),Phillips 66,0.7
+Invest with Henry,MPC,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),Marathon Petroleum,0.7
+Invest with Henry,OXY,Energy,positive,1.0,2024-10-25 13:11:51+00:00,K6wxlQvh2Pk,WARNING: THESE Stocks Will Explode (Not What You Think),Occidental Petroleum,0.8
+Invest with Henry,NVDA,Information Technology,positive,0.98,2024-10-22 15:01:03+00:00,poxUuS2G35o,Make $8000/Month in Safe Passive Income With This Easy Options Strategy,Nvidia,0.3
+Invest with Henry,MSFT,Information Technology,positive,0.98,2024-10-22 15:01:03+00:00,poxUuS2G35o,Make $8000/Month in Safe Passive Income With This Easy Options Strategy,Microsoft,0.3
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.98,2024-10-22 15:01:03+00:00,poxUuS2G35o,Make $8000/Month in Safe Passive Income With This Easy Options Strategy,Amazon,0.3
+Invest with Henry,AVGO,Information Technology,positive,0.98,2024-10-22 15:01:03+00:00,poxUuS2G35o,Make $8000/Month in Safe Passive Income With This Easy Options Strategy,Broadcom,0.5
+Invest with Henry,COST,Consumer Staples,negative,0.98,2024-10-22 15:01:03+00:00,poxUuS2G35o,Make $8000/Month in Safe Passive Income With This Easy Options Strategy,Costco,0.0
+Invest with Henry,BAC,Financials,positive,1.0,2024-10-21 15:00:13+00:00,EUoWg_CWEDw,WARNING: These Stocks Will Crash Next (Soft Landing Canceled),Bank of America,0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-10-21 15:00:13+00:00,EUoWg_CWEDw,WARNING: These Stocks Will Crash Next (Soft Landing Canceled),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-21 15:00:13+00:00,EUoWg_CWEDw,WARNING: These Stocks Will Crash Next (Soft Landing Canceled),Nvidia,0.6
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-10-20 19:00:00+00:00,aLxxxIU_Qxk,URGENT: Maximize Profits on Palantir Stock (PLTR) with THIS Strategy,Nvidia,0.7
+Invest with Henry,IBM,Information Technology,negative,0.95,2024-10-20 19:00:00+00:00,aLxxxIU_Qxk,URGENT: Maximize Profits on Palantir Stock (PLTR) with THIS Strategy,IBM,0.0
+Invest with Henry,CRM,Information Technology,positive,0.95,2024-10-20 19:00:00+00:00,aLxxxIU_Qxk,URGENT: Maximize Profits on Palantir Stock (PLTR) with THIS Strategy,Salesforce,0.6
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-10-20 19:00:00+00:00,aLxxxIU_Qxk,URGENT: Maximize Profits on Palantir Stock (PLTR) with THIS Strategy,Amazon,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-19 18:00:04+00:00,aohYavYXYCA,Nvidia Stock (NVDA) - I'm Doing THIS Right Now (Easy Money),Nvidia,1.0
+Invest with Henry,BAC,Financials,negative,1.0,2024-10-19 18:00:04+00:00,aohYavYXYCA,Nvidia Stock (NVDA) - I'm Doing THIS Right Now (Easy Money),Bank of America,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-10-19 18:00:04+00:00,aohYavYXYCA,Nvidia Stock (NVDA) - I'm Doing THIS Right Now (Easy Money),Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-10-15 20:07:50+00:00,mrRsAasTUx4,NEW Options Strategy for HUGE Passive Income,Amazon,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-15 20:07:50+00:00,mrRsAasTUx4,NEW Options Strategy for HUGE Passive Income,Nvidia,0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-10-15 20:07:50+00:00,mrRsAasTUx4,NEW Options Strategy for HUGE Passive Income,Microsoft,0.8
+Invest with Henry,GS,Financials,positive,1.0,2024-10-15 20:07:50+00:00,mrRsAasTUx4,NEW Options Strategy for HUGE Passive Income,Goldman Sachs,0.2
+Invest with Henry,BAC,Financials,positive,1.0,2024-10-15 20:07:50+00:00,mrRsAasTUx4,NEW Options Strategy for HUGE Passive Income,Bank of America,0.9
+Invest with Henry,NVDA,Information Technology,negative,0.9,2024-10-12 18:30:02+00:00,aLVHRWutPoc,Maximize Profits on Palantir (PLTR) Stock Without Buying More Shares!,Nvidia,0.0
+Invest with Henry,WMT,Consumer Staples,positive,0.9,2024-10-12 18:30:02+00:00,aLVHRWutPoc,Maximize Profits on Palantir (PLTR) Stock Without Buying More Shares!,Walmart,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-11 19:30:00+00:00,3ksXPTJEHaE,Generate $500 Safe Daily Passive Income (Wheel Option Strategy for Beginners),Nvidia,1.0
+Invest with Henry,GS,Financials,negative,1.0,2024-10-11 19:30:00+00:00,3ksXPTJEHaE,Generate $500 Safe Daily Passive Income (Wheel Option Strategy for Beginners),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-10 18:47:04+00:00,N4JvgqFttKg,DO NOT Buy Nvidia Stock (NVDA) - Do THIS Instead,Nvidia,1.0
+Invest with Henry,GS,Financials,negative,1.0,2024-10-10 18:47:04+00:00,N4JvgqFttKg,DO NOT Buy Nvidia Stock (NVDA) - Do THIS Instead,Goldman Sachs,0.0
+Invest with Henry,GS,Financials,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Goldman Sachs,0.1
+Invest with Henry,MSFT,Information Technology,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Microsoft,0.7
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Nvidia,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Amazon,0.2
+Invest with Henry,NFLX,Communication Services,negative,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Netflix,0.0
+Invest with Henry,WMT,Consumer Staples,positive,0.95,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Walmart,0.9
+Invest with Henry,PYPL,Financials,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),PayPal,0.8
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Kraft Heinz,0.8
+Invest with Henry,IBM,Information Technology,positive,0.9,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),IBM,0.2
+Invest with Henry,SBUX,Consumer Discretionary,positive,0.95,2024-10-07 16:15:03+00:00,hstDr_1QHxU,Make $8000/Month In Safe Passive Income Selling Covered Calls (Free Options Trading Course),Starbucks,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-04 21:25:59+00:00,1PDVHOzQgzM,URGENT: Palantir Stock (PLTR) Shareholders Need to Do THIS ASAP!,Nvidia,0.7
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-10-04 21:25:59+00:00,1PDVHOzQgzM,URGENT: Palantir Stock (PLTR) Shareholders Need to Do THIS ASAP!,Walmart,0.9
+Invest with Henry,GS,Financials,negative,1.0,2024-10-04 21:25:59+00:00,1PDVHOzQgzM,URGENT: Palantir Stock (PLTR) Shareholders Need to Do THIS ASAP!,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-10-03 18:06:32+00:00,1GvzZP1ZZtk,NVDA Perfect Time To Sell Put Options for High Income,Nvidia,1.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-10-03 18:06:32+00:00,1GvzZP1ZZtk,NVDA Perfect Time To Sell Put Options for High Income,Amazon,0.7
+Invest with Henry,NFLX,Communication Services,positive,0.9,2024-10-03 18:06:32+00:00,1GvzZP1ZZtk,NVDA Perfect Time To Sell Put Options for High Income,Netflix,0.7
+Invest with Henry,GS,Financials,negative,0.9,2024-10-03 18:06:32+00:00,1GvzZP1ZZtk,NVDA Perfect Time To Sell Put Options for High Income,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-09-29 20:09:27+00:00,zsG8VcjAUyA,WARNING: Tesla Stock (TSLA) Unusual Call Options Activity (DO THIS BEFORE 10/10),Nvidia,0.2
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.95,2024-09-29 20:09:27+00:00,zsG8VcjAUyA,WARNING: Tesla Stock (TSLA) Unusual Call Options Activity (DO THIS BEFORE 10/10),Amazon,0.0
+Invest with Henry,GM,Consumer Discretionary,negative,0.95,2024-09-29 20:09:27+00:00,zsG8VcjAUyA,WARNING: Tesla Stock (TSLA) Unusual Call Options Activity (DO THIS BEFORE 10/10),General Motors,-0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-09-29 20:09:27+00:00,zsG8VcjAUyA,WARNING: Tesla Stock (TSLA) Unusual Call Options Activity (DO THIS BEFORE 10/10),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-27 16:58:15+00:00,_oofy4pJHU8,URGENT: Once in a LIFETIME Stock Market Event IS HERE,Nvidia,0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-09-27 16:58:15+00:00,_oofy4pJHU8,URGENT: Once in a LIFETIME Stock Market Event IS HERE,Microsoft,0.7
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-09-27 16:58:15+00:00,_oofy4pJHU8,URGENT: Once in a LIFETIME Stock Market Event IS HERE,Walmart,0.9
+Invest with Henry,PYPL,Financials,positive,1.0,2024-09-27 16:58:15+00:00,_oofy4pJHU8,URGENT: Once in a LIFETIME Stock Market Event IS HERE,PayPal,0.5
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-09-27 16:58:15+00:00,_oofy4pJHU8,URGENT: Once in a LIFETIME Stock Market Event IS HERE,Amazon,0.5
+Invest with Henry,GS,Financials,negative,1.0,2024-09-26 18:00:53+00:00,O4IYbpCfcxc,Watch a Pro Options Trader Sell Puts Live! (Options for Beginners),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-26 18:00:53+00:00,O4IYbpCfcxc,Watch a Pro Options Trader Sell Puts Live! (Options for Beginners),Nvidia,0.9
+Invest with Henry,AVGO,Information Technology,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Broadcom,0.9
+Invest with Henry,JPM,Financials,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,JPMorgan Chase,0.9
+Invest with Henry,PG,Consumer Staples,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Procter & Gamble,0.7
+Invest with Henry,JNJ,Health Care,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Johnson & Johnson,0.9
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Walmart,1.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Nvidia,1.0
+Invest with Henry,GS,Financials,positive,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Goldman Sachs,0.5
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Starbucks,0.0
+Invest with Henry,UNH,Health Care,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,UnitedHealth Group,0.0
+Invest with Henry,HON,Industrials,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Honeywell,0.0
+Invest with Henry,MCD,Consumer Discretionary,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,McDonald's,0.0
+Invest with Henry,TXN,Information Technology,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Texas Instruments,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Microsoft,0.0
+Invest with Henry,PLTR,Information Technology,positive,0.9,2024-09-24 23:24:56+00:00,ybNVhJijauE,Double Your Dividends From Stocks With This Easy Options Strategy,Palantir Technologies,0.2
+Invest with Henry,GS,Financials,positive,1.0,2024-09-22 20:07:00+00:00,eHfUNejlgnc,Generate Safe Weekly Passive Income (Wheel Option Strategy for Beginners),Goldman Sachs,0.2
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-22 20:07:00+00:00,eHfUNejlgnc,Generate Safe Weekly Passive Income (Wheel Option Strategy for Beginners),Nvidia,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,Nvidia,1.0
+Invest with Henry,BAC,Financials,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,Bank of America,1.0
+Invest with Henry,KHC,Consumer Staples,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,Kraft Heinz,0.5
+Invest with Henry,XOM,Energy,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,ExxonMobil,1.0
+Invest with Henry,SLB,Energy,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,Schlumberger,1.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-09-21 20:07:00+00:00,0J_pR9NKLYw,Tom Lee: THESE Stocks Are About to EXPLODE,Amazon,1.0
+Invest with Henry,BAC,Financials,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Bank of America,0.6
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Walmart,0.6
+Invest with Henry,KHC,Consumer Staples,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Kraft Heinz,0.7
+Invest with Henry,AVGO,Information Technology,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Broadcom,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Amazon,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Nvidia,0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Microsoft,0.9
+Invest with Henry,PYPL,Financials,positive,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,PayPal,1.0
+Invest with Henry,GS,Financials,negative,1.0,2024-09-20 20:07:00+00:00,oLxPKfwLL7Y,URGENT: Only THESE Stocks Will Go Up As Rates Get Cut,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.9,2024-09-19 20:07:00+00:00,W_22zOIP0NU,Why I'm Buying Palantir to Get Rich in 2025,Amazon,0.0
+Invest with Henry,GS,Financials,negative,0.9,2024-09-19 20:07:00+00:00,W_22zOIP0NU,Why I'm Buying Palantir to Get Rich in 2025,Goldman Sachs,0.0
+Invest with Henry,BRK.B,Financials,negative,1.0,2024-09-18 20:07:00+00:00,PCIPZ-jvtM0,Apple Stock (AAPL) is in Trouble (Hedge With Options Now),Berkshire Hathaway,-0.2
+Invest with Henry,INTC,Information Technology,negative,1.0,2024-09-18 20:07:00+00:00,PCIPZ-jvtM0,Apple Stock (AAPL) is in Trouble (Hedge With Options Now),Intel,-0.4
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-09-18 20:07:00+00:00,PCIPZ-jvtM0,Apple Stock (AAPL) is in Trouble (Hedge With Options Now),Starbucks,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-18 20:07:00+00:00,PCIPZ-jvtM0,Apple Stock (AAPL) is in Trouble (Hedge With Options Now),Nvidia,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-16 20:07:00+00:00,hcHdbnoW1_U,"Nvidia Stock (NVDA) is About to Explode, Says Morgan Stanley",Nvidia,0.9
+Invest with Henry,MS,Financials,negative,1.0,2024-09-16 20:07:00+00:00,hcHdbnoW1_U,"Nvidia Stock (NVDA) is About to Explode, Says Morgan Stanley",Morgan Stanley,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-15 21:29:51+00:00,_6uSPoybec0,"$2,338 Premium Collected Selling Put Spreads (LIVE Option Trading)",Nvidia,1.0
+Invest with Henry,ABNB,Consumer Discretionary,positive,1.0,2024-09-15 21:29:51+00:00,_6uSPoybec0,"$2,338 Premium Collected Selling Put Spreads (LIVE Option Trading)",Airbnb,0.9
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-09-12 20:31:23+00:00,4KM6cXYpN7A,PORTFOLIO REVEAL: I Make $15K on PLTR & NVDA Stocks Weekly (Here's How),Nvidia,0.95
+Invest with Henry,ABNB,Consumer Discretionary,positive,0.95,2024-09-12 20:31:23+00:00,4KM6cXYpN7A,PORTFOLIO REVEAL: I Make $15K on PLTR & NVDA Stocks Weekly (Here's How),Airbnb,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-09-12 20:31:23+00:00,4KM6cXYpN7A,PORTFOLIO REVEAL: I Make $15K on PLTR & NVDA Stocks Weekly (Here's How),Amazon,0.7
+Invest with Henry,BAC,Financials,positive,0.95,2024-09-12 20:31:23+00:00,4KM6cXYpN7A,PORTFOLIO REVEAL: I Make $15K on PLTR & NVDA Stocks Weekly (Here's How),Bank of America,0.8
+Invest with Henry,GS,Financials,negative,1.0,2024-09-11 20:07:00+00:00,7ysP9AJMfVw,3 Options Strategies to Get Rich (Without Getting Lucky),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-11 20:07:00+00:00,7ysP9AJMfVw,3 Options Strategies to Get Rich (Without Getting Lucky),Nvidia,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-09 20:25:25+00:00,--7laF-OZQw,Make Money When Stocks Crash (Call Credit Spreads for Beginners),Nvidia,0.3
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-09-09 20:25:25+00:00,--7laF-OZQw,Make Money When Stocks Crash (Call Credit Spreads for Beginners),Amazon,0.0
+Invest with Henry,COIN,Financials,negative,1.0,2024-09-09 20:25:25+00:00,--7laF-OZQw,Make Money When Stocks Crash (Call Credit Spreads for Beginners),Coinbase,0.0
+Invest with Henry,MSFT,Information Technology,negative,0.9,2024-09-08 17:05:00+00:00,LUayI3fUYCc,DON'T BUY NVIDIA (NVDA) Until It Hits THIS PRICE! (Sell Puts Instead),Microsoft,0.0
+Invest with Henry,GS,Financials,negative,0.9,2024-09-08 17:05:00+00:00,LUayI3fUYCc,DON'T BUY NVIDIA (NVDA) Until It Hits THIS PRICE! (Sell Puts Instead),Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.9,2024-09-06 20:07:00+00:00,1IYoQD4ElP4,My Palantir Stock (PLTR) 2025 Price Target & LEAP Option Strategy,Amazon,0.0
+Invest with Henry,NVDA,Information Technology,negative,0.9,2024-09-06 20:07:00+00:00,1IYoQD4ElP4,My Palantir Stock (PLTR) 2025 Price Target & LEAP Option Strategy,Nvidia,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-05 20:26:39+00:00,m-SPLV4fFCA,Nvidia Stock (NVDA) - I'm Doing THIS Right Now (Easy Money),Nvidia,1.0
+Invest with Henry,GS,Financials,positive,0.9,2024-09-05 20:26:39+00:00,m-SPLV4fFCA,Nvidia Stock (NVDA) - I'm Doing THIS Right Now (Easy Money),Goldman Sachs,0.1
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-09-04 20:07:00+00:00,6DIFqm2wvPQ,4 Stocks I'm Buying Right Now!,Nvidia,1.0
+Invest with Henry,PYPL,Financials,positive,1.0,2024-09-04 20:07:00+00:00,6DIFqm2wvPQ,4 Stocks I'm Buying Right Now!,PayPal,0.9
+Invest with Henry,MSFT,Information Technology,positive,0.9,2024-09-03 20:07:01+00:00,iju_oetqgLo,"Retire on JUST $197,000 Using The Wheel Strategy on SPY (Pro Options Trader)",Microsoft,0.7
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-09-03 20:07:01+00:00,iju_oetqgLo,"Retire on JUST $197,000 Using The Wheel Strategy on SPY (Pro Options Trader)",Nvidia,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-09-03 20:07:01+00:00,iju_oetqgLo,"Retire on JUST $197,000 Using The Wheel Strategy on SPY (Pro Options Trader)",Amazon,0.7
+Invest with Henry,BRK.B,Financials,positive,0.9,2024-09-03 20:07:01+00:00,iju_oetqgLo,"Retire on JUST $197,000 Using The Wheel Strategy on SPY (Pro Options Trader)",Berkshire Hathaway,0.7
+Invest with Henry,AVGO,Information Technology,positive,0.9,2024-09-03 20:07:01+00:00,iju_oetqgLo,"Retire on JUST $197,000 Using The Wheel Strategy on SPY (Pro Options Trader)",Broadcom,0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-09-02 20:01:39+00:00,MiK2UcPGSgQ,WARNING ON PLTR: DO THIS Before The Stock Market Opens! (Palantir Stock Update),Goldman Sachs,-0.8
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.9,2024-09-02 20:01:39+00:00,MiK2UcPGSgQ,WARNING ON PLTR: DO THIS Before The Stock Market Opens! (Palantir Stock Update),Amazon,0.0
+Invest with Henry,BAC,Financials,negative,0.9,2024-09-02 20:01:39+00:00,MiK2UcPGSgQ,WARNING ON PLTR: DO THIS Before The Stock Market Opens! (Palantir Stock Update),Bank of America,0.0
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-09-02 20:01:39+00:00,MiK2UcPGSgQ,WARNING ON PLTR: DO THIS Before The Stock Market Opens! (Palantir Stock Update),Kraft Heinz,0.2
+Invest with Henry,BLK,Financials,negative,1.0,2024-08-30 19:59:42+00:00,Ig-iwBvUXvo,Palantir Stock (PLTR) - I'm Doing This NOW!,BlackRock,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-08-30 19:59:42+00:00,Ig-iwBvUXvo,Palantir Stock (PLTR) - I'm Doing This NOW!,Amazon,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-08-30 19:59:42+00:00,Ig-iwBvUXvo,Palantir Stock (PLTR) - I'm Doing This NOW!,Microsoft,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-08-29 20:12:43+00:00,acsOliQVt9U,Buying Call Options Tutorial and Close For Profit,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-08-29 20:12:43+00:00,acsOliQVt9U,Buying Call Options Tutorial and Close For Profit,Nvidia,-0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-08-27 20:07:00+00:00,GMLZ-xk8Sp8,How to Grow Small Accounts FAST (Iron Condor FULL Guide),Microsoft,0.2
+Invest with Henry,NFLX,Communication Services,positive,1.0,2024-08-27 20:07:00+00:00,GMLZ-xk8Sp8,How to Grow Small Accounts FAST (Iron Condor FULL Guide),Netflix,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-08-27 20:07:00+00:00,GMLZ-xk8Sp8,How to Grow Small Accounts FAST (Iron Condor FULL Guide),Nvidia,0.8
+Invest with Henry,GS,Financials,negative,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Nvidia,0.7
+Invest with Henry,BAC,Financials,positive,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Bank of America,0.7
+Invest with Henry,WMT,Consumer Staples,negative,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Walmart,0.0
+Invest with Henry,PYPL,Financials,positive,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,PayPal,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Amazon,0.5
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Starbucks,0.0
+Invest with Henry,MCD,Consumer Discretionary,negative,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,McDonald's,0.0
+Invest with Henry,KHC,Consumer Staples,positive,1.0,2024-08-24 22:23:32+00:00,5BVlq4sTqt8,My One Easy Trick to Sell Puts for Passive Income,Kraft Heinz,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-08-17 20:40:56+00:00,a5cxsHjp6l8,Watch Millionaire Sell Options live! (Selling puts for Beginners),Nvidia,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-08-17 20:40:56+00:00,a5cxsHjp6l8,Watch Millionaire Sell Options live! (Selling puts for Beginners),Amazon,0.5
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-08-17 20:40:56+00:00,a5cxsHjp6l8,Watch Millionaire Sell Options live! (Selling puts for Beginners),Starbucks,0.5
+Invest with Henry,MCD,Consumer Discretionary,negative,1.0,2024-08-17 20:40:56+00:00,a5cxsHjp6l8,Watch Millionaire Sell Options live! (Selling puts for Beginners),McDonald's,0.0
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-08-17 20:40:56+00:00,a5cxsHjp6l8,Watch Millionaire Sell Options live! (Selling puts for Beginners),Walmart,0.9
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-08-14 21:14:27+00:00,Qw3KlvRInG0,WARNING ON PALANTIR STOCK (PLTR) - I'm Doing This Right Now,Amazon,0.1
+Invest with Henry,UBER,Industrials,negative,0.95,2024-08-13 20:37:15+00:00,hrz2co5hH6s,Selling Options Is the Trick to Retire Early,Uber,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.98,2024-08-13 20:37:15+00:00,hrz2co5hH6s,Selling Options Is the Trick to Retire Early,Amazon,-0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-08-10 17:02:11+00:00,HFjgK1jePG0,Why Palantir Stock (PLTR) Will Go To $50 (HUGE NEWS),Microsoft,0.7
+Invest with Henry,NOC,Industrials,positive,0.9,2024-08-10 17:02:11+00:00,HFjgK1jePG0,Why Palantir Stock (PLTR) Will Go To $50 (HUGE NEWS),Northrop Grumman,0.5
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-08-08 20:30:00+00:00,3bKEElxfJoU,Wheel Trading: Ultimate Steady Guide To Monthly Income (BEGINNERS),Microsoft,0.5
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-08-08 20:30:00+00:00,3bKEElxfJoU,Wheel Trading: Ultimate Steady Guide To Monthly Income (BEGINNERS),Nvidia,0.5
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-08-08 20:30:00+00:00,3bKEElxfJoU,Wheel Trading: Ultimate Steady Guide To Monthly Income (BEGINNERS),Amazon,0.5
+Invest with Henry,BRK.B,Financials,positive,0.9,2024-08-08 20:30:00+00:00,3bKEElxfJoU,Wheel Trading: Ultimate Steady Guide To Monthly Income (BEGINNERS),Berkshire Hathaway,0.5
+Invest with Henry,AVGO,Information Technology,positive,0.9,2024-08-08 20:30:00+00:00,3bKEElxfJoU,Wheel Trading: Ultimate Steady Guide To Monthly Income (BEGINNERS),Broadcom,0.5
+Invest with Henry,ABNB,Consumer Discretionary,negative,1.0,2024-08-08 15:03:26+00:00,KemyU91OZbY,IT'S OVER! What an Emergency Rate Cut Means for Stock Market Investors,Airbnb,-1.0
+Invest with Henry,PEP,Consumer Staples,negative,0.9,2024-08-07 18:49:55+00:00,TDT7GytA2UU,This F*cked The Stock Market,PepsiCo,-0.9
+Invest with Henry,MDLZ,Consumer Staples,negative,0.8,2024-08-07 18:49:55+00:00,TDT7GytA2UU,This F*cked The Stock Market,Mondelez International,-0.9
+Invest with Henry,TSN,Consumer Staples,negative,0.9,2024-08-07 18:49:55+00:00,TDT7GytA2UU,This F*cked The Stock Market,Tyson Foods,-0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-08-07 04:00:40+00:00,sH68-TfmboE,How to Sell a Put Option example,Microsoft,1.0
+Invest with Henry,FDS,Financials,negative,0.9,2024-08-06 15:28:29+00:00,ZJQy3v6QIaU,Palantir READY TO EXPLODE,FactSet,0.0
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Starbucks,-0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Microsoft,0.7
+Invest with Henry,BRK.B,Financials,negative,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Berkshire Hathaway,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Nvidia,0.5
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-08-05 19:23:45+00:00,tqkUC-BXK1M,STOCK MARKET CRASH EXPLAINED! Should You Buy or Sell?,Amazon,0.9
+Invest with Henry,MSFT,Information Technology,positive,0.9,2024-08-04 20:30:01+00:00,INYQpzBr3pM,How I turned $100k to $700k in 1 year,Microsoft,0.2
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-08-03 14:02:27+00:00,rL4t3G8O1kY,PLTR. DO THIS BEFORE MONDAY,Microsoft,0.0
+Invest with Henry,WMT,Consumer Staples,negative,1.0,2024-08-03 14:02:27+00:00,rL4t3G8O1kY,PLTR. DO THIS BEFORE MONDAY,Walmart,0.0
+Invest with Henry,SBUX,Consumer Discretionary,negative,0.9,2024-08-02 20:00:25+00:00,bmYMFwmufU8,Don't do this when a stock goes down a lot...,Starbucks,-0.8
+Invest with Henry,META,Communication Services,negative,1.0,2024-08-01 22:17:54+00:00,QflccIcTaqk,"Learn to Sell Put Options for $10,000 Monthly Passive Income",Meta Platforms,0.0
+Invest with Henry,PYPL,Financials,positive,1.0,2024-08-01 22:17:54+00:00,QflccIcTaqk,"Learn to Sell Put Options for $10,000 Monthly Passive Income",PayPal,0.8
+Invest with Henry,GS,Financials,positive,1.0,2024-08-01 22:17:54+00:00,QflccIcTaqk,"Learn to Sell Put Options for $10,000 Monthly Passive Income",Goldman Sachs,0.1
+Invest with Henry,GS,Financials,negative,0.9,2024-08-01 20:00:07+00:00,KxpiRm5SIrU,What to do if your short option goes ITM?,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-07-31 20:40:59+00:00,IuC4UbaXORY,Make 10% Monthly on Small Accounts With This Covered Call Options Strategy,Nvidia,0.9
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-07-31 20:40:59+00:00,IuC4UbaXORY,Make 10% Monthly on Small Accounts With This Covered Call Options Strategy,Amazon,0.5
+Invest with Henry,WMT,Consumer Staples,negative,0.9,2024-07-31 20:40:59+00:00,IuC4UbaXORY,Make 10% Monthly on Small Accounts With This Covered Call Options Strategy,Walmart,0.0
+Invest with Henry,PYPL,Financials,negative,0.9,2024-07-31 20:40:59+00:00,IuC4UbaXORY,Make 10% Monthly on Small Accounts With This Covered Call Options Strategy,PayPal,0.0
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Nvidia,-0.6
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Microsoft,0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Amazon,0.8
+Invest with Henry,AVGO,Information Technology,positive,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Broadcom,0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Goldman Sachs,0.0
+Invest with Henry,MCD,Consumer Discretionary,positive,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,McDonald's,0.9
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Starbucks,0.3
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-07-30 22:25:08+00:00,i551wh49er0,What Tesla and Nvidia did? Crash protection! ASAP!,Kraft Heinz,0.5
+Invest with Henry,KHC,Consumer Staples,negative,1.0,2024-07-25 16:20:46+00:00,SXd-v1z5AY8,Options Trading for Beginners FULL FREE COURSE (4 Hours),Kraft Heinz,0.0
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-07-25 16:20:46+00:00,SXd-v1z5AY8,Options Trading for Beginners FULL FREE COURSE (4 Hours),Starbucks,0.8
+Invest with Henry,GS,Financials,negative,0.9,2024-07-24 23:25:52+00:00,yZRYS590Di0,Palantir Wheel Income Strategy,Goldman Sachs,0.0
+Invest with Henry,SBUX,Consumer Discretionary,positive,0.8,2024-07-24 23:25:52+00:00,yZRYS590Di0,Palantir Wheel Income Strategy,Starbucks,0.2
+Invest with Henry,MCD,Consumer Discretionary,positive,0.8,2024-07-24 23:25:52+00:00,yZRYS590Di0,Palantir Wheel Income Strategy,McDonald's,0.2
+Invest with Henry,AVGO,Information Technology,positive,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Broadcom,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Nvidia,0.7
+Invest with Henry,BAC,Financials,negative,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Bank of America,0.0
+Invest with Henry,INTC,Information Technology,positive,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Intel,0.5
+Invest with Henry,WMT,Consumer Staples,negative,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Walmart,0.0
+Invest with Henry,PYPL,Financials,negative,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,PayPal,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-07-17 21:14:08+00:00,MnDxRlWOwss,Urgent: AVGO Stock,Amazon,0.0
+Invest with Henry,IBM,Information Technology,negative,1.0,2024-07-15 18:00:16+00:00,X-PuZQkqG1s,How to Make $10K Per Month and Retire on SPY (Step by Step),IBM,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-07-15 18:00:16+00:00,X-PuZQkqG1s,How to Make $10K Per Month and Retire on SPY (Step by Step),Microsoft,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-07-15 18:00:16+00:00,X-PuZQkqG1s,How to Make $10K Per Month and Retire on SPY (Step by Step),Goldman Sachs,0.0
+Invest with Henry,NFLX,Communication Services,negative,1.0,2024-07-15 18:00:16+00:00,X-PuZQkqG1s,How to Make $10K Per Month and Retire on SPY (Step by Step),Netflix,0.0
+Invest with Henry,AVGO,Information Technology,positive,0.95,2024-07-15 15:22:01+00:00,Cbf_Nl1AXnA,3 Stocks Congress Members Can’t Stop Buying,Broadcom,0.85
+Invest with Henry,COIN,Financials,positive,0.9,2024-07-15 15:22:01+00:00,Cbf_Nl1AXnA,3 Stocks Congress Members Can’t Stop Buying,Coinbase,0.3
+Invest with Henry,ABNB,Consumer Discretionary,positive,0.9,2024-07-15 15:22:01+00:00,Cbf_Nl1AXnA,3 Stocks Congress Members Can’t Stop Buying,Airbnb,0.7
+Invest with Henry,UBER,Industrials,negative,0.8,2024-07-15 15:22:01+00:00,Cbf_Nl1AXnA,3 Stocks Congress Members Can’t Stop Buying,Uber,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-07-15 15:22:01+00:00,Cbf_Nl1AXnA,3 Stocks Congress Members Can’t Stop Buying,Amazon,0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-07-13 18:40:14+00:00,81dsgvR5T3Y,URGENT: Market Reset Incoming,Microsoft,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-07-13 18:40:14+00:00,81dsgvR5T3Y,URGENT: Market Reset Incoming,Amazon,0.8
+Invest with Henry,UBER,Industrials,negative,0.9,2024-07-13 18:40:14+00:00,81dsgvR5T3Y,URGENT: Market Reset Incoming,Uber,-0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-07-13 18:40:14+00:00,81dsgvR5T3Y,URGENT: Market Reset Incoming,Nvidia,0.9
+Invest with Henry,PYPL,Financials,positive,0.9,2024-07-13 18:40:14+00:00,81dsgvR5T3Y,URGENT: Market Reset Incoming,PayPal,0.8
+Invest with Henry,UBER,Industrials,negative,1.0,2024-07-12 22:20:14+00:00,fszLacO2K44,I'm Buying Tesla AND Palantir Stock (Here's Why),Uber,-0.5
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-07-04 21:00:34+00:00,oBOD0M_6jEk,OPTIONS - The Only 7 Basics You MUST Know,Nvidia,0.8
+Invest with Henry,BAC,Financials,negative,1.0,2024-07-04 21:00:34+00:00,oBOD0M_6jEk,OPTIONS - The Only 7 Basics You MUST Know,Bank of America,0.0
+Invest with Henry,IBM,Information Technology,negative,1.0,2024-07-03 15:39:16+00:00,nbrFFqy3et8,"$130,000 Palantir Position News",IBM,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-07-03 15:39:16+00:00,nbrFFqy3et8,"$130,000 Palantir Position News",Amazon,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-07-03 15:39:16+00:00,nbrFFqy3et8,"$130,000 Palantir Position News",Microsoft,0.0
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-07-03 15:39:16+00:00,nbrFFqy3et8,"$130,000 Palantir Position News",Nvidia,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-06-27 18:22:27+00:00,fPaAQhz2BGw,PRO Options Trader Ranks The Top Trading Strategies,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-06-25 23:28:09+00:00,NWb4agPiRlc,"If I Wanted to Go From Broke to $5M, Here’s What I’d Do (PROOF)",Amazon,0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-06-25 23:28:09+00:00,NWb4agPiRlc,"If I Wanted to Go From Broke to $5M, Here’s What I’d Do (PROOF)",Microsoft,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-06-25 23:28:09+00:00,NWb4agPiRlc,"If I Wanted to Go From Broke to $5M, Here’s What I’d Do (PROOF)",Nvidia,0.7
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-06-25 23:28:09+00:00,NWb4agPiRlc,"If I Wanted to Go From Broke to $5M, Here’s What I’d Do (PROOF)",Walmart,1.0
+Invest with Henry,PYPL,Financials,positive,1.0,2024-06-25 23:28:09+00:00,NWb4agPiRlc,"If I Wanted to Go From Broke to $5M, Here’s What I’d Do (PROOF)",PayPal,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-06-24 21:59:03+00:00,GtFZtJ_36VM,Revealed IMPORTANT Trade Hack!,Nvidia,0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Microsoft,0.9
+Invest with Henry,GS,Financials,negative,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Goldman Sachs,0.0
+Invest with Henry,BRK.B,Financials,negative,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Berkshire Hathaway,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Amazon,0.9
+Invest with Henry,PYPL,Financials,positive,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),PayPal,0.7
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-06-15 22:35:40+00:00,vhiBxjJIWM8,Watch Millionaire Trader Sell Puts Live! (Selling put options for beginners),Starbucks,0.6
+Invest with Henry,GS,Financials,negative,1.0,2024-06-14 21:11:10+00:00,b6lncrmvMWM,10X Your Money Using These CHEAP Option Trading Strategy,Goldman Sachs,0.0
+Invest with Henry,PLTR,Information Technology,positive,1.0,2024-06-14 21:11:10+00:00,b6lncrmvMWM,10X Your Money Using These CHEAP Option Trading Strategy,Palantir Technologies,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-06-14 21:11:10+00:00,b6lncrmvMWM,10X Your Money Using These CHEAP Option Trading Strategy,Nvidia,1.0
+Invest with Henry,ABNB,Consumer Discretionary,positive,1.0,2024-06-14 21:11:10+00:00,b6lncrmvMWM,10X Your Money Using These CHEAP Option Trading Strategy,Airbnb,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-06-12 15:25:30+00:00,1eHUjwOEqkk,Top 5 Stocks I'm Buying Right Now for HUGE Growth,Nvidia,0.9
+Invest with Henry,META,Communication Services,positive,1.0,2024-06-12 15:25:30+00:00,1eHUjwOEqkk,Top 5 Stocks I'm Buying Right Now for HUGE Growth,Meta Platforms,0.9
+Invest with Henry,UBER,Industrials,negative,1.0,2024-06-12 15:25:30+00:00,1eHUjwOEqkk,Top 5 Stocks I'm Buying Right Now for HUGE Growth,Uber,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-06-12 15:25:30+00:00,1eHUjwOEqkk,Top 5 Stocks I'm Buying Right Now for HUGE Growth,Goldman Sachs,0.0
+Invest with Henry,PLTR,Information Technology,positive,1.0,2024-06-08 21:45:35+00:00,WuNN1PNvNCk,"PLTR: Wheel Strategy, Selling Puts and Covered Calls",Palantir Technologies,1.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-06-08 21:45:35+00:00,WuNN1PNvNCk,"PLTR: Wheel Strategy, Selling Puts and Covered Calls",Nvidia,0.8
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-06-08 21:45:35+00:00,WuNN1PNvNCk,"PLTR: Wheel Strategy, Selling Puts and Covered Calls",Microsoft,0.7
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-06-07 23:59:02+00:00,M8RZ_hx1uBQ,How to Make Money Buying Put Options for Beginners,Starbucks,-0.8
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-06-05 14:04:53+00:00,jtZHaS1F1ls,My Top Tips for Trading Options on Robinhood in 2024,Nvidia,0.8
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-05-27 18:38:46+00:00,cAjyUvGb6qg,Palantir Urgent: Do This Immediately,Nvidia,0.2
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-05-27 18:38:46+00:00,cAjyUvGb6qg,Palantir Urgent: Do This Immediately,Amazon,0.7
+Invest with Henry,MSFT,Information Technology,positive,0.9,2024-05-27 18:38:46+00:00,cAjyUvGb6qg,Palantir Urgent: Do This Immediately,Microsoft,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-05-23 23:37:45+00:00,eXTscWLM2Xs,Buying Call Options Explained Simple,Nvidia,1.0
+Invest with Henry,GS,Financials,negative,1.0,2024-05-23 23:37:45+00:00,eXTscWLM2Xs,Buying Call Options Explained Simple,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-05-22 21:47:48+00:00,h-1sVxdK880,"$4,500/mo Spread Trading (Small Account)",Amazon,-0.3
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-05-22 21:47:48+00:00,h-1sVxdK880,"$4,500/mo Spread Trading (Small Account)",Starbucks,0.3
+Invest with Henry,KHC,Consumer Staples,positive,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Kraft Heinz,0.7
+Invest with Henry,GS,Financials,negative,0.9,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Goldman Sachs,0.0
+Invest with Henry,T,Communication Services,positive,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,AT&T,0.5
+Invest with Henry,VZ,Communication Services,positive,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Verizon,0.5
+Invest with Henry,BAC,Financials,positive,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Bank of America,0.8
+Invest with Henry,BRK.B,Financials,positive,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Berkshire Hathaway,0.3
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-05-16 18:29:23+00:00,giYniDkBd7Q,Top 5 Covered Call Stocks Now for 2024,Nvidia,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-05-14 10:12:56+00:00,W2YfJaYNd9E,Rolling Options on Robinhood Invest with Henry,Amazon,0.6
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-05-12 19:21:04+00:00,9hm3rWC9eh0,Palantir: obvious trade.,Nvidia,0.8
+Invest with Henry,GS,Financials,positive,1.0,2024-05-12 19:21:04+00:00,9hm3rWC9eh0,Palantir: obvious trade.,Goldman Sachs,0.3
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-05-10 21:36:15+00:00,ctxYEF4Y2C0,Palantir. Do This Now!,Amazon,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-05-10 21:36:15+00:00,ctxYEF4Y2C0,Palantir. Do This Now!,Nvidia,0.7
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-05-07 16:15:53+00:00,F9tWmpAgJd4,Buy Call Options Tutorial on Robinhood with Strategy,Starbucks,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-05-07 16:15:53+00:00,F9tWmpAgJd4,Buy Call Options Tutorial on Robinhood with Strategy,Goldman Sachs,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-05-04 16:03:52+00:00,YsbOiSiNYbQ,SPY - How to Profitably Trade it,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-05-04 16:03:52+00:00,YsbOiSiNYbQ,SPY - How to Profitably Trade it,Amazon,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-05-04 16:03:52+00:00,YsbOiSiNYbQ,SPY - How to Profitably Trade it,Microsoft,0.0
+Invest with Henry,JNJ,Health Care,negative,1.0,2024-05-04 16:03:52+00:00,YsbOiSiNYbQ,SPY - How to Profitably Trade it,Johnson & Johnson,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,0.9,2024-04-30 21:44:43+00:00,nX_Gvk6I9i4,"Selling Put Options For $10,000/mo Income",Amazon,0.0
+Invest with Henry,UBER,Industrials,negative,0.8,2024-04-21 19:24:34+00:00,_IJZav7mvNk,"I Put $10,000 into NIO Stock",Uber,0.0
+Invest with Henry,GS,Financials,positive,1.0,2024-04-18 23:37:59+00:00,4Y4rfffeZCQ,Credit Spread | ONLY RISK $50 (Beginners),Goldman Sachs,0.7
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-04-18 23:37:59+00:00,4Y4rfffeZCQ,Credit Spread | ONLY RISK $50 (Beginners),Amazon,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-04-18 23:37:59+00:00,4Y4rfffeZCQ,Credit Spread | ONLY RISK $50 (Beginners),Nvidia,0.8
+Invest with Henry,GS,Financials,negative,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,Goldman Sachs,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,Amazon,0.8
+Invest with Henry,SBUX,Consumer Discretionary,negative,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,Starbucks,0.0
+Invest with Henry,WMT,Consumer Staples,negative,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,Walmart,0.0
+Invest with Henry,PYPL,Financials,negative,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,PayPal,-0.7
+Invest with Henry,NVDA,Information Technology,negative,0.95,2024-04-15 12:30:40+00:00,x3yIocSj-x4,WOW! Day Trade QQQ Last 15 Minute Sell Put 0 DTE EXAMPLE,Nvidia,-0.2
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-04-07 23:45:20+00:00,TinlncglF_c,Options Dollar Cost Averaging,Microsoft,0.8
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-04-04 18:31:53+00:00,R2zayWTM0YM,Catching trends,Nvidia,0.7
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-04-03 18:00:33+00:00,tUDXT6-G4uA,Selling Options For Passive Monthly Income (Easy Way!),Starbucks,0.0
+Invest with Henry,WMT,Consumer Staples,negative,1.0,2024-04-03 18:00:33+00:00,tUDXT6-G4uA,Selling Options For Passive Monthly Income (Easy Way!),Walmart,0.0
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-04-03 18:00:33+00:00,tUDXT6-G4uA,Selling Options For Passive Monthly Income (Easy Way!),Amazon,0.0
+Invest with Henry,GS,Financials,negative,1.0,2024-04-03 18:00:33+00:00,tUDXT6-G4uA,Selling Options For Passive Monthly Income (Easy Way!),Goldman Sachs,0.0
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-04-03 18:00:33+00:00,tUDXT6-G4uA,Selling Options For Passive Monthly Income (Easy Way!),Kraft Heinz,0.2
+Invest with Henry,GS,Financials,negative,1.0,2024-03-29 16:52:59+00:00,X9ibF2v1RKA,Options vs. Stocks: Which is Safer? (Risk Management Explained),Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-03-29 16:52:59+00:00,X9ibF2v1RKA,Options vs. Stocks: Which is Safer? (Risk Management Explained),Nvidia,0.8
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-03-29 16:52:59+00:00,X9ibF2v1RKA,Options vs. Stocks: Which is Safer? (Risk Management Explained),Starbucks,0.0
+Invest with Henry,GS,Financials,negative,0.9,2024-03-26 19:35:29+00:00,UG5x8uP-j_4,BROKE? - $50 Option Trading Strategy,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,positive,0.95,2024-03-26 19:35:29+00:00,UG5x8uP-j_4,BROKE? - $50 Option Trading Strategy,Nvidia,0.9
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-03-22 18:18:41+00:00,KIJ9nmub0JE,Back At $2 MILLION Trading Account Update,Starbucks,0.7
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-03-22 18:18:41+00:00,KIJ9nmub0JE,Back At $2 MILLION Trading Account Update,Walmart,0.7
+Invest with Henry,AMZN,Consumer Discretionary,negative,1.0,2024-03-22 18:18:41+00:00,KIJ9nmub0JE,Back At $2 MILLION Trading Account Update,Amazon,0.0
+Invest with Henry,TTWO,Communication Services,positive,0.9,2024-03-22 18:18:41+00:00,KIJ9nmub0JE,Back At $2 MILLION Trading Account Update,Take-Two Interactive,0.6
+Invest with Henry,COIN,Financials,positive,0.9,2024-03-22 18:18:41+00:00,KIJ9nmub0JE,Back At $2 MILLION Trading Account Update,Coinbase,0.9
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-03-16 19:12:26+00:00,JsyuKB3kBBs,Top 4 Call Options I'm Buying Now (Easy Money),Nvidia,1.0
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-03-07 20:03:58+00:00,rIA5tof5VKU,PLTR READY TO ROCKET 🚀,Nvidia,-0.2
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-03-07 20:03:58+00:00,rIA5tof5VKU,PLTR READY TO ROCKET 🚀,Amazon,0.9
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-03-07 20:03:58+00:00,rIA5tof5VKU,PLTR READY TO ROCKET 🚀,Walmart,0.7
+Invest with Henry,GS,Financials,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Goldman Sachs,0.2
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Amazon,0.7
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Nvidia,0.5
+Invest with Henry,ABNB,Consumer Discretionary,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Airbnb,0.9
+Invest with Henry,UBER,Industrials,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Uber,0.9
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-02-24 17:30:08+00:00,oXK3vriAlz4,Ex-Goldman Sachs Explains How The Stock Market Really Works,Microsoft,0.8
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-02-20 22:52:10+00:00,nUp0zcPhLkY,New $4K a Month Trader (Interviewing my Student),Nvidia,0.7
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-02-20 22:52:10+00:00,nUp0zcPhLkY,New $4K a Month Trader (Interviewing my Student),Starbucks,0.9
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-02-15 17:49:59+00:00,xmQ8FzdEhuU,Real Estate vs Stock Market in 2024 - Which is the better Investment Option?,Nvidia,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-02-15 17:49:59+00:00,xmQ8FzdEhuU,Real Estate vs Stock Market in 2024 - Which is the better Investment Option?,Amazon,1.0
+Invest with Henry,SBUX,Consumer Discretionary,negative,1.0,2024-02-15 17:49:59+00:00,xmQ8FzdEhuU,Real Estate vs Stock Market in 2024 - Which is the better Investment Option?,Starbucks,0.0
+Invest with Henry,WMT,Consumer Staples,negative,1.0,2024-02-15 17:49:59+00:00,xmQ8FzdEhuU,Real Estate vs Stock Market in 2024 - Which is the better Investment Option?,Walmart,0.0
+Invest with Henry,MSFT,Information Technology,negative,1.0,2024-02-15 17:49:59+00:00,xmQ8FzdEhuU,Real Estate vs Stock Market in 2024 - Which is the better Investment Option?,Microsoft,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Amazon,0.8
+Invest with Henry,MCD,Consumer Discretionary,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),McDonald's,0.9
+Invest with Henry,NVDA,Information Technology,negative,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Nvidia,-0.9
+Invest with Henry,MSFT,Information Technology,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Microsoft,0.7
+Invest with Henry,WMT,Consumer Staples,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Walmart,0.7
+Invest with Henry,KHC,Consumer Staples,positive,0.9,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Kraft Heinz,0.6
+Invest with Henry,BAC,Financials,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),Bank of America,0.8
+Invest with Henry,JPM,Financials,positive,0.95,2024-02-12 18:41:43+00:00,Enx_5I_MHJw,The Best Stocks to Buy RIGHT NOW (February 2024),JPMorgan Chase,0.5
+Invest with Henry,NVDA,Information Technology,positive,0.9,2024-02-08 15:00:39+00:00,bPfQ44kVQDk,I Told You… Now it’s going to be wild,Nvidia,0.1
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-02-08 15:00:39+00:00,bPfQ44kVQDk,I Told You… Now it’s going to be wild,Amazon,0.2
+Invest with Henry,UBER,Industrials,positive,0.9,2024-02-08 15:00:39+00:00,bPfQ44kVQDk,I Told You… Now it’s going to be wild,Uber,0.5
+Invest with Henry,ABNB,Consumer Discretionary,positive,0.9,2024-02-08 15:00:39+00:00,bPfQ44kVQDk,I Told You… Now it’s going to be wild,Airbnb,0.5
+Invest with Henry,CRM,Information Technology,negative,0.9,2024-02-08 15:00:39+00:00,bPfQ44kVQDk,I Told You… Now it’s going to be wild,Salesforce,-0.1
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-02-06 21:46:01+00:00,hNIlS7190DU,How Much Money To Retire Option Trading,Nvidia,0.8
+Invest with Henry,GS,Financials,negative,1.0,2024-02-06 21:46:01+00:00,hNIlS7190DU,How Much Money To Retire Option Trading,Goldman Sachs,-0.3
+Invest with Henry,GS,Financials,negative,0.9,2024-02-05 20:26:35+00:00,QxpREr2-FUs,I Quit Goldman Sachs Job,Goldman Sachs,-0.4
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.95,2024-02-04 23:00:10+00:00,LLJYuq78Gmg,How to BUY Call Options on Robinhood For Beginners,Amazon,0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-01-30 19:39:02+00:00,BXN05v6rWAE,I Quit Goldman Sachs And Made It Trading Options,Goldman Sachs,0.0
+Invest with Henry,IBM,Information Technology,negative,1.0,2024-01-30 19:39:02+00:00,BXN05v6rWAE,I Quit Goldman Sachs And Made It Trading Options,IBM,0.0
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-01-29 20:58:58+00:00,o1gEPMq6o64,"These Secrets Scaled me to $1,000,000+",Amazon,0.7
+Invest with Henry,GS,Financials,positive,1.0,2024-01-29 20:58:58+00:00,o1gEPMq6o64,"These Secrets Scaled me to $1,000,000+",Goldman Sachs,0.6
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-01-29 20:58:58+00:00,o1gEPMq6o64,"These Secrets Scaled me to $1,000,000+",Microsoft,0.7
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-01-29 20:58:58+00:00,o1gEPMq6o64,"These Secrets Scaled me to $1,000,000+",Nvidia,-0.5
+Invest with Henry,NVDA,Information Technology,negative,0.95,2024-01-26 16:30:05+00:00,XoEgsztTKmg,I TRIED BUYING OPTIONS,Nvidia,-0.7
+Invest with Henry,NFLX,Communication Services,negative,0.9,2024-01-26 16:30:05+00:00,XoEgsztTKmg,I TRIED BUYING OPTIONS,Netflix,-0.3
+Invest with Henry,SBUX,Consumer Discretionary,positive,0.95,2024-01-26 16:30:05+00:00,XoEgsztTKmg,I TRIED BUYING OPTIONS,Starbucks,0.9
+Invest with Henry,WMT,Consumer Staples,positive,0.95,2024-01-26 16:30:05+00:00,XoEgsztTKmg,I TRIED BUYING OPTIONS,Walmart,0.95
+Invest with Henry,UBER,Industrials,negative,1.0,2024-01-24 16:00:39+00:00,nzebzJWna7Q,Revealing Personal... (Invest with Henry Trading and Life Advice),Uber,0.0
+Invest with Henry,ABNB,Consumer Discretionary,negative,1.0,2024-01-24 16:00:39+00:00,nzebzJWna7Q,Revealing Personal... (Invest with Henry Trading and Life Advice),Airbnb,-0.5
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-01-22 20:11:45+00:00,9zgdgqbMLUg,Urgent: BEARISH Poor Man's Put,Nvidia,-1.0
+Invest with Henry,SBUX,Consumer Discretionary,positive,1.0,2024-01-22 20:11:45+00:00,9zgdgqbMLUg,Urgent: BEARISH Poor Man's Put,Starbucks,0.8
+Invest with Henry,PLTR,Information Technology,negative,1.0,2024-01-19 19:30:02+00:00,r4gibOYRFvU,50X to 100X Your Money WIth These Small Account Option Startegies,Palantir Technologies,-0.4
+Invest with Henry,AMZN,Consumer Discretionary,positive,0.9,2024-01-19 10:02:17+00:00,c6q2fHXFDGs,Placing Option Trade,Amazon,0.3
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-01-18 19:43:41+00:00,3jxZiSp8cPE,NEW strategy for PLTR - Wheel Strategy + Selling Puts | Option Trading Guide,Amazon,0.7
+Invest with Henry,MSFT,Information Technology,positive,1.0,2024-01-18 19:43:41+00:00,3jxZiSp8cPE,NEW strategy for PLTR - Wheel Strategy + Selling Puts | Option Trading Guide,Microsoft,0.7
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-01-18 19:43:41+00:00,3jxZiSp8cPE,NEW strategy for PLTR - Wheel Strategy + Selling Puts | Option Trading Guide,Nvidia,-0.8
+Invest with Henry,WMT,Consumer Staples,positive,1.0,2024-01-18 19:43:41+00:00,3jxZiSp8cPE,NEW strategy for PLTR - Wheel Strategy + Selling Puts | Option Trading Guide,Walmart,0.7
+Invest with Henry,GS,Financials,negative,1.0,2024-01-15 15:00:11+00:00,DLxpgd-9uaE,Call Debit Spread | BEAR Call Spread Option Trading,Goldman Sachs,0.0
+Invest with Henry,NVDA,Information Technology,negative,1.0,2024-01-15 15:00:11+00:00,DLxpgd-9uaE,Call Debit Spread | BEAR Call Spread Option Trading,Nvidia,-0.8
+Invest with Henry,AMZN,Consumer Discretionary,positive,1.0,2024-01-15 15:00:11+00:00,DLxpgd-9uaE,Call Debit Spread | BEAR Call Spread Option Trading,Amazon,0.9
+Invest with Henry,GS,Financials,negative,1.0,2024-01-10 16:51:12+00:00,BFM5couZWoE,17X Your Money Fast Option Trading CHEAP Strategy (Just $50),Goldman Sachs,0.0
+Invest with Henry,BRK.B,Financials,negative,1.0,2024-01-07 20:24:01+00:00,s0uPBdLP7KU,How Charlie Munger Actually Made Money with Options,Berkshire Hathaway,0.0
+Invest with Henry,NVDA,Information Technology,positive,1.0,2024-01-05 17:02:22+00:00,MlYwvexD8Fc,"Here’s a $12,000 Options Trading Coaching Session for FREE",Nvidia,0.8
+Invest with Henry,NFLX,Communication Services,positive,1.0,2024-01-05 17:02:22+00:00,MlYwvexD8Fc,"Here’s a $12,000 Options Trading Coaching Session for FREE",Netflix,0.8
+Invest with Henry,GS,Financials,negative,1.0,2024-01-03 16:00:05+00:00,4u1n3pT7l1Y,Robinhood Trading Account | Retiring With Option Trading For Income,Goldman Sachs,0.0

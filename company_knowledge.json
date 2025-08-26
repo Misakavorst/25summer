@@ -1,0 +1,2547 @@
+{
+    "3M": {
+        "ticker": "MMM",
+        "sector": "Industrials",
+        "description": "3 (three) is a number, numeral and digit."
+    },
+    "A. O. Smith": {
+        "ticker": "AOS",
+        "sector": "Industrials",
+        "description": "A. O. Smith Corporation is an American manufacturer of both residential and commercial water heaters and boilers, and the largest manufacturer and marketer of water heaters in North America."
+    },
+    "Abbott Laboratories": {
+        "ticker": "ABT",
+        "sector": "Health Care",
+        "description": "Abbott Laboratories is an American multinational medical devices and health care company with headquarters in Abbott Park, Illinois, in the United States."
+    },
+    "AbbVie": {
+        "ticker": "ABBV",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Accenture": {
+        "ticker": "ACN",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Adobe Inc.": {
+        "ticker": "ADBE",
+        "sector": "Information Technology",
+        "description": "Adobe Inc."
+    },
+    "Advanced Micro Devices": {
+        "ticker": "AMD",
+        "sector": "Information Technology",
+        "description": "Advanced Micro Devices, Inc."
+    },
+    "AES Corporation": {
+        "ticker": "AES",
+        "sector": "Utilities",
+        "description": "The AES Corporation is an American utility and power generation company."
+    },
+    "Aflac": {
+        "ticker": "AFL",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Agilent Technologies": {
+        "ticker": "A",
+        "sector": "Health Care",
+        "description": "Agilent Technologies, Inc."
+    },
+    "Air Products": {
+        "ticker": "APD",
+        "sector": "Materials",
+        "description": "Air Products and Chemicals, Inc."
+    },
+    "Airbnb": {
+        "ticker": "ABNB",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Akamai Technologies": {
+        "ticker": "AKAM",
+        "sector": "Information Technology",
+        "description": "Akamai Technologies, Inc."
+    },
+    "Albemarle Corporation": {
+        "ticker": "ALB",
+        "sector": "Materials",
+        "description": "Albemarle Corporation is an American specialty chemicals manufacturing company based in Charlotte, North Carolina."
+    },
+    "Alexandria Real Estate Equities": {
+        "ticker": "ARE",
+        "sector": "Real Estate",
+        "description": "Alexandria Real Estate Equities, Inc."
+    },
+    "Align Technology": {
+        "ticker": "ALGN",
+        "sector": "Health Care",
+        "description": "Align Technology, Inc."
+    },
+    "Allegion": {
+        "ticker": "ALLE",
+        "sector": "Industrials",
+        "description": "In law, an allegation is a claim of an unproven fact by a party in a pleading, charge, or defense."
+    },
+    "Alliant Energy": {
+        "ticker": "LNT",
+        "sector": "Utilities",
+        "description": "Alliant Energy Corporation is a public utility holding company headquartered in Madison, Wisconsin, providing power in Iowa and Wisconsin."
+    },
+    "Allstate": {
+        "ticker": "ALL",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Alphabet Inc. (Class A)": {
+        "ticker": "GOOGL",
+        "sector": "Communication Services",
+        "description": "Alphabet Inc."
+    },
+    "Alphabet Inc. (Class C)": {
+        "ticker": "GOOG",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "Altria": {
+        "ticker": "MO",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Amazon": {
+        "ticker": "AMZN",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Amcor": {
+        "ticker": "AMCR",
+        "sector": "Materials",
+        "description": "The Amco was an American automobile manufactured primarily for the export market, designed by D.M. Eller and built by American Motors, Inc."
+    },
+    "Ameren": {
+        "ticker": "AEE",
+        "sector": "Utilities",
+        "description": "Ameen is a surname."
+    },
+    "American Electric Power": {
+        "ticker": "AEP",
+        "sector": "Utilities",
+        "description": "American Electric Power Company, Inc."
+    },
+    "American Express": {
+        "ticker": "AXP",
+        "sector": "Financials",
+        "description": "American Express Company or Amex is an American bank holding company and multinational financial services corporation that specializes in payment cards."
+    },
+    "American International Group": {
+        "ticker": "AIG",
+        "sector": "Financials",
+        "description": "American International Group, Inc."
+    },
+    "American Tower": {
+        "ticker": "AMT",
+        "sector": "Real Estate",
+        "description": "American Tower Corporation (also referred to as American Tower or ATC) is an American real estate investment trust which owns, develops and operates wireless and broadcast communications infrastructure in several countries."
+    },
+    "American Water Works": {
+        "ticker": "AWK",
+        "sector": "Utilities",
+        "description": "American Water is an American public utility company that, through its subsidiaries, provides water and wastewater services in the United States."
+    },
+    "Ameriprise Financial": {
+        "ticker": "AMP",
+        "sector": "Financials",
+        "description": "Ameriprise Financial, Inc."
+    },
+    "Ametek": {
+        "ticker": "AME",
+        "sector": "Industrials",
+        "description": "The Amstel (Dutch: [ˈɑmstəl] ) is a river in the province of North Holland in the Netherlands."
+    },
+    "Amgen": {
+        "ticker": "AMGN",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Amphenol": {
+        "ticker": "APH",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Analog Devices": {
+        "ticker": "ADI",
+        "sector": "Information Technology",
+        "description": "Analog Devices, Inc."
+    },
+    "Aon plc": {
+        "ticker": "AON",
+        "sector": "Financials",
+        "description": "Aon plc (English: ) is a British-American professional services firm that offers a range of risk-mitigation products."
+    },
+    "APA Corporation": {
+        "ticker": "APA",
+        "sector": "Energy",
+        "description": "APA Corporation is the holding company for Apache Corporation, an American company engaged in hydrocarbon exploration."
+    },
+    "Apollo Global Management": {
+        "ticker": "APO",
+        "sector": "Financials",
+        "description": "Apollo Global Management, Inc."
+    },
+    "Apple Inc.": {
+        "ticker": "AAPL",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Applied Materials": {
+        "ticker": "AMAT",
+        "sector": "Information Technology",
+        "description": "Applied Materials, Inc."
+    },
+    "Aptiv": {
+        "ticker": "APTV",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Arch Capital Group": {
+        "ticker": "ACGL",
+        "sector": "Financials",
+        "description": "Arch Capital Group Ltd."
+    },
+    "Archer Daniels Midland": {
+        "ticker": "ADM",
+        "sector": "Consumer Staples",
+        "description": "The Archer-Daniels-Midland Company, commonly known as ADM, is an American multinational food processing and commodities trading corporation founded in 1902 and headquartered in Chicago, Illinois."
+    },
+    "Arista Networks": {
+        "ticker": "ANET",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Arthur J. Gallagher & Co.": {
+        "ticker": "AJG",
+        "sector": "Financials",
+        "description": "Arthur J. Gallagher & Co."
+    },
+    "Assurant": {
+        "ticker": "AIZ",
+        "sector": "Financials",
+        "description": ""
+    },
+    "AT&T": {
+        "ticker": "T",
+        "sector": "Communication Services",
+        "description": "All Terrain Walkers are armored fighting vehicles from the Star Wars universe that traverse the landscape on mechanical legs."
+    },
+    "Atmos Energy": {
+        "ticker": "ATO",
+        "sector": "Utilities",
+        "description": "Atmos Energy Corporation, headquartered in Dallas, Texas, is one of the United States' largest natural-gas-only distributors, serving about three million natural gas distribution customers in over 1,400 communities in nine states from the Blue Ridge Mountains in the East to the Rocky Mountains in the West."
+    },
+    "Autodesk": {
+        "ticker": "ADSK",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Automatic Data Processing": {
+        "ticker": "ADP",
+        "sector": "Industrials",
+        "description": "Automatic Data Processing, Inc."
+    },
+    "AutoZone": {
+        "ticker": "AZO",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "AvalonBay Communities": {
+        "ticker": "AVB",
+        "sector": "Real Estate",
+        "description": "AvalonBay Communities, Inc."
+    },
+    "Avery Dennison": {
+        "ticker": "AVY",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Axon Enterprise": {
+        "ticker": "AXON",
+        "sector": "Industrials",
+        "description": "Axon Enterprise, Inc."
+    },
+    "Baker Hughes": {
+        "ticker": "BKR",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Ball Corporation": {
+        "ticker": "BALL",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Bank of America": {
+        "ticker": "BAC",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Baxter International": {
+        "ticker": "BAX",
+        "sector": "Health Care",
+        "description": "Baxter International Inc."
+    },
+    "Becton Dickinson": {
+        "ticker": "BDX",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Berkshire Hathaway": {
+        "ticker": "BRK.B",
+        "sector": "Financials",
+        "description": "Berkshire Hathaway Inc."
+    },
+    "Best Buy": {
+        "ticker": "BBY",
+        "sector": "Consumer Discretionary",
+        "description": "In a film crew, there are two kinds of best boy:  best boy electric (also known as the assistant chief lighting technician) and best boy grip (also known as the 2nd company grip)."
+    },
+    "Bio-Techne": {
+        "ticker": "TECH",
+        "sector": "Health Care",
+        "description": "Bio-Techne Corporation is an American life sciences company that develops, manufactures and sells life science reagents, instruments and services for the research, diagnostic, and bioprocessing markets."
+    },
+    "Biogen": {
+        "ticker": "BIIB",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "BlackRock": {
+        "ticker": "BLK",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Blackstone Inc.": {
+        "ticker": "BX",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Block, Inc.": {
+        "ticker": "XYZ",
+        "sector": "Financials",
+        "description": ""
+    },
+    "BNY Mellon": {
+        "ticker": "BK",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Boeing": {
+        "ticker": "BA",
+        "sector": "Industrials",
+        "description": "Boxing is a combat sport and martial art."
+    },
+    "Booking Holdings": {
+        "ticker": "BKNG",
+        "sector": "Consumer Discretionary",
+        "description": "Booking Holdings Inc."
+    },
+    "Boston Scientific": {
+        "ticker": "BSX",
+        "sector": "Health Care",
+        "description": "Boston Scientific Corporation (BSC), headquartered in Marlborough, Massachusetts and incorporated in Delaware, is an American biotechnology and biomedical engineering firm and multinational manufacturer of medical devices used in interventional medical specialties, including interventional radiology, interventional cardiology, peripheral interventions, neuromodulation, neurovascular intervention, electrophysiology, cardiac surgery, vascular surgery, endoscopy, oncology, urology and gynecology."
+    },
+    "Bristol Myers Squibb": {
+        "ticker": "BMY",
+        "sector": "Health Care",
+        "description": "The Bristol-Myers Squibb Company, doing business as Bristol Myers Squibb (BMS), is an American multinational pharmaceutical company."
+    },
+    "Broadcom": {
+        "ticker": "AVGO",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Broadridge Financial Solutions": {
+        "ticker": "BR",
+        "sector": "Industrials",
+        "description": "Broadridge Financial Solutions, Inc."
+    },
+    "Brown & Brown": {
+        "ticker": "BRO",
+        "sector": "Financials",
+        "description": "Brown & Brown, Inc."
+    },
+    "Brown–Forman": {
+        "ticker": "BF.B",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Builders FirstSource": {
+        "ticker": "BLDR",
+        "sector": "Industrials",
+        "description": "Builders FirstSource, Inc."
+    },
+    "Bunge Global": {
+        "ticker": "BG",
+        "sector": "Consumer Staples",
+        "description": "Bunge Global SA (BUN-ghee) is a global agribusiness and food company, incorporated in Geneva, Switzerland and headquartered in St."
+    },
+    "BXP, Inc.": {
+        "ticker": "BXP",
+        "sector": "Real Estate",
+        "description": "BXP, Inc."
+    },
+    "C.H. Robinson": {
+        "ticker": "CHRW",
+        "sector": "Industrials",
+        "description": "C.H. Robinson Worldwide, Inc."
+    },
+    "Cadence Design Systems": {
+        "ticker": "CDNS",
+        "sector": "Information Technology",
+        "description": "Cadence Design Systems, Inc."
+    },
+    "Caesars Entertainment": {
+        "ticker": "CZR",
+        "sector": "Consumer Discretionary",
+        "description": "Caesars Entertainment, Inc., formerly Eldorado Resorts, Inc., is an American hotel and casino entertainment company founded and based in Reno, Nevada, that operates more than 50 properties."
+    },
+    "Camden Property Trust": {
+        "ticker": "CPT",
+        "sector": "Real Estate",
+        "description": "Camden Property Trust is a publicly traded real estate investment trust that invests in apartments in the United States."
+    },
+    "Campbell's Company (The)": {
+        "ticker": "CPB",
+        "sector": "Consumer Staples",
+        "description": "The Campbell's Company (doing business as Campbell's and formerly known as the Campbell Soup Company) is an American company, most closely associated with its flagship canned soup products."
+    },
+    "Capital One": {
+        "ticker": "COF",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Cardinal Health": {
+        "ticker": "CAH",
+        "sector": "Health Care",
+        "description": "Cardinal Health, Inc."
+    },
+    "CarMax": {
+        "ticker": "KMX",
+        "sector": "Consumer Discretionary",
+        "description": "CarMax, Inc."
+    },
+    "Carnival": {
+        "ticker": "CCL",
+        "sector": "Consumer Discretionary",
+        "description": "Carnival (known as Shrovetide in certain localities) is a festive season that occurs at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras."
+    },
+    "Carrier Global": {
+        "ticker": "CARR",
+        "sector": "Industrials",
+        "description": "Carrier Global Corporation is an American multinational heating, ventilation, and air conditioning (HVAC), refrigeration, and fire and security equipment corporation based in Palm Beach Gardens, Florida."
+    },
+    "Caterpillar Inc.": {
+        "ticker": "CAT",
+        "sector": "Industrials",
+        "description": "Caterpillar Inc., also known as Cat, is an American construction, mining and other engineering equipment manufacturer."
+    },
+    "Cboe Global Markets": {
+        "ticker": "CBOE",
+        "sector": "Financials",
+        "description": "Cboe Global Markets, Inc."
+    },
+    "CBRE Group": {
+        "ticker": "CBRE",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "CDW Corporation": {
+        "ticker": "CDW",
+        "sector": "Information Technology",
+        "description": "CDW Corporation is an American multi-brand provider of innovative information technology services, serving business, government, education, and healthcare sectors across the United States, the United Kingdom, and Canada."
+    },
+    "Cencora": {
+        "ticker": "COR",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Centene Corporation": {
+        "ticker": "CNC",
+        "sector": "Health Care",
+        "description": "Centene Corporation is an American for-profit healthcare company based in St."
+    },
+    "CenterPoint Energy": {
+        "ticker": "CNP",
+        "sector": "Utilities",
+        "description": "CenterPoint Energy, Inc."
+    },
+    "CF Industries": {
+        "ticker": "CF",
+        "sector": "Materials",
+        "description": "CF Industries Holdings, Inc."
+    },
+    "Charles River Laboratories": {
+        "ticker": "CRL",
+        "sector": "Health Care",
+        "description": "Charles River Laboratories International, Inc."
+    },
+    "Charles Schwab Corporation": {
+        "ticker": "SCHW",
+        "sector": "Financials",
+        "description": "The Charles Schwab Corporation is an American multinational financial services company."
+    },
+    "Charter Communications": {
+        "ticker": "CHTR",
+        "sector": "Communication Services",
+        "description": "Charter Communications, Inc., is an American telecommunications and mass media company with services branded as Spectrum."
+    },
+    "Chevron Corporation": {
+        "ticker": "CVX",
+        "sector": "Energy",
+        "description": "Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas."
+    },
+    "Chipotle Mexican Grill": {
+        "ticker": "CMG",
+        "sector": "Consumer Discretionary",
+        "description": "Chipotle Mexican Grill, Inc."
+    },
+    "Chubb Limited": {
+        "ticker": "CB",
+        "sector": "Financials",
+        "description": "Chubb Limited is an American–Swiss company incorporated in Zürich, and listed on the New York Stock Exchange (NYSE) where it is a component of the S&P 500."
+    },
+    "Church & Dwight": {
+        "ticker": "CHD",
+        "sector": "Consumer Staples",
+        "description": "Church & Dwight Co., Inc."
+    },
+    "Cigna": {
+        "ticker": "CI",
+        "sector": "Health Care",
+        "description": "Vigna is a genus of plants in the legume family, Fabaceae, with  a pantropical distribution."
+    },
+    "Cincinnati Financial": {
+        "ticker": "CINF",
+        "sector": "Financials",
+        "description": "Cincinnati Financial Corporation offers property and casualty insurance, its main business, through The Cincinnati Insurance Company, The Cincinnati Indemnity Company and The Cincinnati Casualty Company."
+    },
+    "Cintas": {
+        "ticker": "CTAS",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Cisco": {
+        "ticker": "CSCO",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Citigroup": {
+        "ticker": "C",
+        "sector": "Financials",
+        "description": "Citigroup Inc."
+    },
+    "Citizens Financial Group": {
+        "ticker": "CFG",
+        "sector": "Financials",
+        "description": "Citizens Financial Group, Inc."
+    },
+    "Clorox": {
+        "ticker": "CLX",
+        "sector": "Consumer Staples",
+        "description": "The Clorox Company (formerly Clorox Chemical Company) is an American multinational manufacturer and marketer of consumer and professional products."
+    },
+    "CME Group": {
+        "ticker": "CME",
+        "sector": "Financials",
+        "description": ""
+    },
+    "CMS Energy": {
+        "ticker": "CMS",
+        "sector": "Utilities",
+        "description": "CMS Energy Corporation is an American energy company based in Jackson, Michigan, that is focused principally on utility operations in Michigan."
+    },
+    "Coca-Cola Company (The)": {
+        "ticker": "KO",
+        "sector": "Consumer Staples",
+        "description": "The Coca-Cola Company is an American multinational corporation founded in 1892."
+    },
+    "Cognizant": {
+        "ticker": "CTSH",
+        "sector": "Information Technology",
+        "description": "Cognizant Technology Solutions Corporation is an American multinational information technology consulting and outsourcing company originally founded in India."
+    },
+    "Coinbase": {
+        "ticker": "COIN",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Colgate-Palmolive": {
+        "ticker": "CL",
+        "sector": "Consumer Staples",
+        "description": "The Colgate-Palmolive Company, commonly known as Colgate-Palmolive, is an American multinational consumer products company headquartered on Park Avenue in Midtown Manhattan, New York City."
+    },
+    "Comcast": {
+        "ticker": "CMCSA",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "Conagra Brands": {
+        "ticker": "CAG",
+        "sector": "Consumer Staples",
+        "description": "Conagra Brands, Inc."
+    },
+    "ConocoPhillips": {
+        "ticker": "COP",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Consolidated Edison": {
+        "ticker": "ED",
+        "sector": "Utilities",
+        "description": "Consolidated Edison, Inc., commonly known as Con Edison (stylized as conEdison) or ConEd, is one of the largest investor-owned energy companies in the United States, with approximately $12 billion in annual revenues as of 2017, and over $62 billion in assets."
+    },
+    "Constellation Brands": {
+        "ticker": "STZ",
+        "sector": "Consumer Staples",
+        "description": "Constellation Brands, Inc."
+    },
+    "Constellation Energy": {
+        "ticker": "CEG",
+        "sector": "Utilities",
+        "description": "Constellation Energy Corporation is an American energy company headquartered in Baltimore, Maryland."
+    },
+    "Cooper Companies (The)": {
+        "ticker": "COO",
+        "sector": "Health Care",
+        "description": "The Cooper Companies, Inc., branded as CooperCompanies, is a global medical device company headquartered in San Ramon, California."
+    },
+    "Copart": {
+        "ticker": "CPRT",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Corning Inc.": {
+        "ticker": "GLW",
+        "sector": "Information Technology",
+        "description": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including advanced optics, primarily for industrial and scientific applications."
+    },
+    "Corpay": {
+        "ticker": "CPAY",
+        "sector": "Financials",
+        "description": "A company, abbreviated as co., is a legal entity representing an association of legal people, whether natural, juridical or a mixture of both, with a specific objective."
+    },
+    "Corteva": {
+        "ticker": "CTVA",
+        "sector": "Materials",
+        "description": ""
+    },
+    "CoStar Group": {
+        "ticker": "CSGP",
+        "sector": "Real Estate",
+        "description": "CoStar Group, Inc."
+    },
+    "Costco": {
+        "ticker": "COST",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Coterra": {
+        "ticker": "CTRA",
+        "sector": "Energy",
+        "description": "Coterra Energy Inc."
+    },
+    "CrowdStrike": {
+        "ticker": "CRWD",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Crown Castle": {
+        "ticker": "CCI",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "CSX Corporation": {
+        "ticker": "CSX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Cummins": {
+        "ticker": "CMI",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "CVS Health": {
+        "ticker": "CVS",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Danaher Corporation": {
+        "ticker": "DHR",
+        "sector": "Health Care",
+        "description": "Danaher Corporation is an American global conglomerate founded in 1984 by brothers Steven and Mitchell Rales."
+    },
+    "Darden Restaurants": {
+        "ticker": "DRI",
+        "sector": "Consumer Discretionary",
+        "description": "Darden Restaurants, Inc."
+    },
+    "Datadog": {
+        "ticker": "DDOG",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "DaVita": {
+        "ticker": "DVA",
+        "sector": "Health Care",
+        "description": "DaVita Inc."
+    },
+    "Dayforce": {
+        "ticker": "DAY",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Deckers Brands": {
+        "ticker": "DECK",
+        "sector": "Consumer Discretionary",
+        "description": "Deckers Outdoor Corporation, doing business as Deckers Brands, is an American footwear designer and distributor founded in 1973 and based in Goleta, California."
+    },
+    "Deere & Company": {
+        "ticker": "DE",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Dell Technologies": {
+        "ticker": "DELL",
+        "sector": "Information Technology",
+        "description": "Dell Technologies Inc."
+    },
+    "Delta Air Lines": {
+        "ticker": "DAL",
+        "sector": "Industrials",
+        "description": "Delta Air Lines, Inc."
+    },
+    "Devon Energy": {
+        "ticker": "DVN",
+        "sector": "Energy",
+        "description": "Devon Energy Corporation is a company engaged in hydrocarbon exploration in the United States."
+    },
+    "Dexcom": {
+        "ticker": "DXCM",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Diamondback Energy": {
+        "ticker": "FANG",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Digital Realty": {
+        "ticker": "DLR",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "Dollar General": {
+        "ticker": "DG",
+        "sector": "Consumer Staples",
+        "description": "Dollar General Corporation is an American chain of discount stores headquartered in Goodlettsville, Tennessee."
+    },
+    "Dollar Tree": {
+        "ticker": "DLTR",
+        "sector": "Consumer Staples",
+        "description": "Dollar Tree, Inc., formerly known as Dollar Tree Stores, Inc., is an American multi-price-point chain of discount variety stores."
+    },
+    "Dominion Energy": {
+        "ticker": "D",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Domino's": {
+        "ticker": "DPZ",
+        "sector": "Consumer Discretionary",
+        "description": "Domino's Pizza, Inc., commonly referred to as Domino's, is an American multinational pizza restaurant chain founded in 1960 and led by CEO Russell Weiner."
+    },
+    "DoorDash": {
+        "ticker": "DASH",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Dover Corporation": {
+        "ticker": "DOV",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Dow Inc.": {
+        "ticker": "DOW",
+        "sector": "Materials",
+        "description": "The Dow Chemical Company is an American multinational corporation headquartered in Midland, Michigan, United States."
+    },
+    "D. R. Horton": {
+        "ticker": "DHI",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "DTE Energy": {
+        "ticker": "DTE",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Duke Energy": {
+        "ticker": "DUK",
+        "sector": "Utilities",
+        "description": "Duke Energy Corporation is an American electric power and natural gas holding company headquartered in Charlotte, North Carolina."
+    },
+    "DuPont": {
+        "ticker": "DD",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Eastman Chemical Company": {
+        "ticker": "EMN",
+        "sector": "Materials",
+        "description": "Eastman Chemical Company is an American company primarily involved in the chemical industry."
+    },
+    "Eaton Corporation": {
+        "ticker": "ETN",
+        "sector": "Industrials",
+        "description": "Eaton Corporation plc is an American-Irish-domiciled multinational power management company, with a primary administrative center in Beachwood, Ohio."
+    },
+    "eBay Inc.": {
+        "ticker": "EBAY",
+        "sector": "Consumer Discretionary",
+        "description": "eBay Inc."
+    },
+    "Ecolab": {
+        "ticker": "ECL",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Edison International": {
+        "ticker": "EIX",
+        "sector": "Utilities",
+        "description": "Edison International is a public utility holding company based in Rosemead, California."
+    },
+    "Edwards Lifesciences": {
+        "ticker": "EW",
+        "sector": "Health Care",
+        "description": "Edwards Lifesciences is an American medical technology company headquartered in Irvine, California, specializing in artificial heart valves and hemodynamic monitoring."
+    },
+    "Electronic Arts": {
+        "ticker": "EA",
+        "sector": "Communication Services",
+        "description": "Electronic art is a form of art that makes use of electronic media."
+    },
+    "Elevance Health": {
+        "ticker": "ELV",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Emerson Electric": {
+        "ticker": "EMR",
+        "sector": "Industrials",
+        "description": "Emerson Electric Co."
+    },
+    "Enphase Energy": {
+        "ticker": "ENPH",
+        "sector": "Information Technology",
+        "description": "Enphase Energy, Inc."
+    },
+    "Entergy": {
+        "ticker": "ETR",
+        "sector": "Utilities",
+        "description": "Energy (from Ancient Greek  ἐνέργεια (enérgeia) 'activity') is the quantitative property that is transferred to a body or to a physical system, recognizable in the performance of work and in the form of heat and light."
+    },
+    "EOG Resources": {
+        "ticker": "EOG",
+        "sector": "Energy",
+        "description": "EOG Resources, Inc."
+    },
+    "EPAM Systems": {
+        "ticker": "EPAM",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "EQT Corporation": {
+        "ticker": "EQT",
+        "sector": "Energy",
+        "description": "EQT Corporation is an American energy company engaged in hydrocarbon exploration and pipeline transport."
+    },
+    "Equifax": {
+        "ticker": "EFX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Equinix": {
+        "ticker": "EQIX",
+        "sector": "Real Estate",
+        "description": "A solar equinox is a moment in time when the Sun appears directly above the equator, rather than to its north or south."
+    },
+    "Equity Residential": {
+        "ticker": "EQR",
+        "sector": "Real Estate",
+        "description": "Equity Residential is a United States–based publicly traded real estate investment trust that invests in apartments."
+    },
+    "Erie Indemnity": {
+        "ticker": "ERIE",
+        "sector": "Financials",
+        "description": "Erie Insurance Group, based in Erie, Pennsylvania, is a property and casualty insurance company offering auto, home, business and life insurance through a network of independent insurance agents."
+    },
+    "Essex Property Trust": {
+        "ticker": "ESS",
+        "sector": "Real Estate",
+        "description": "Essex Property Trust is a publicly traded real estate investment trust that invests in apartments in California and in the Seattle metropolitan area."
+    },
+    "Estée Lauder Companies (The)": {
+        "ticker": "EL",
+        "sector": "Consumer Staples",
+        "description": "The Estée Lauder Companies Inc."
+    },
+    "Everest Group": {
+        "ticker": "EG",
+        "sector": "Financials",
+        "description": "Everest Group, Ltd."
+    },
+    "Evergy": {
+        "ticker": "EVRG",
+        "sector": "Utilities",
+        "description": "Entergy Corporation is a Fortune 500 integrated energy company engaged in electric power production and retail distribution operations in the Deep South of the United States."
+    },
+    "Eversource Energy": {
+        "ticker": "ES",
+        "sector": "Utilities",
+        "description": "Eversource Energy is a publicly traded, Fortune 500 energy company headquartered in Hartford, Connecticut, and Boston, Massachusetts, with several regulated subsidiaries offering retail electricity, natural gas service and water service to approximately 4 million customers in Connecticut, Massachusetts, and New Hampshire."
+    },
+    "Exelon": {
+        "ticker": "EXC",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Expand Energy": {
+        "ticker": "EXE",
+        "sector": "Energy",
+        "description": "Expand Energy Corporation, headquartered in Oklahoma City, is the largest independent natural gas producer in the U.S. based on net daily production."
+    },
+    "Expedia Group": {
+        "ticker": "EXPE",
+        "sector": "Consumer Discretionary",
+        "description": "Expedia Group, Inc."
+    },
+    "Expeditors International": {
+        "ticker": "EXPD",
+        "sector": "Industrials",
+        "description": "Expeditors International of Washington, Inc."
+    },
+    "Extra Space Storage": {
+        "ticker": "EXR",
+        "sector": "Real Estate",
+        "description": "Extra Space Storage Inc."
+    },
+    "ExxonMobil": {
+        "ticker": "XOM",
+        "sector": "Energy",
+        "description": "Exxon Mobil Corporation ( EK-son-MOH-bəl) is an American multinational oil and gas corporation headquartered in Spring, Texas, a suburb of Houston."
+    },
+    "F5, Inc.": {
+        "ticker": "FFIV",
+        "sector": "Information Technology",
+        "description": "F5, Inc."
+    },
+    "FactSet": {
+        "ticker": "FDS",
+        "sector": "Financials",
+        "description": "A fact is a true datum about one or more aspects of a circumstance."
+    },
+    "Fair Isaac": {
+        "ticker": "FICO",
+        "sector": "Information Technology",
+        "description": "FICO (legal name: Fair Isaac Corporation), originally Fair, Isaac and Company, is an American data analytics company based in Bozeman, Montana, focused on credit scoring services."
+    },
+    "Fastenal": {
+        "ticker": "FAST",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Federal Realty Investment Trust": {
+        "ticker": "FRT",
+        "sector": "Real Estate",
+        "description": "Federal Realty Investment Trust is a real estate investment trust that invests in shopping centers in the Northeastern United States, the Mid-Atlantic states, California, and South Florida."
+    },
+    "FedEx": {
+        "ticker": "FDX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Fidelity National Information Services": {
+        "ticker": "FIS",
+        "sector": "Financials",
+        "description": "Fidelity National Information Services, Inc."
+    },
+    "Fifth Third Bancorp": {
+        "ticker": "FITB",
+        "sector": "Financials",
+        "description": "Fifth Third Bancorp is a bank holding company headquartered in Cincinnati, Ohio."
+    },
+    "First Solar": {
+        "ticker": "FSLR",
+        "sector": "Information Technology",
+        "description": "First Solar, Inc."
+    },
+    "FirstEnergy": {
+        "ticker": "FE",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Fiserv": {
+        "ticker": "FI",
+        "sector": "Financials",
+        "description": "Fiserv, Inc."
+    },
+    "Ford Motor Company": {
+        "ticker": "F",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Fortinet": {
+        "ticker": "FTNT",
+        "sector": "Information Technology",
+        "description": "Fortive Corporation is an American industrial technology conglomerate company headquartered in Everett, Washington."
+    },
+    "Fortive": {
+        "ticker": "FTV",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Fox Corporation (Class A)": {
+        "ticker": "FOXA",
+        "sector": "Communication Services",
+        "description": "Fox Corporation (commonly referred to as Fox Corp or simply Fox) is an American multinational mass media company headquartered at 1211 Avenue of the Americas in Midtown Manhattan, with offices also in Burbank, California."
+    },
+    "Fox Corporation (Class B)": {
+        "ticker": "FOX",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "Franklin Resources": {
+        "ticker": "BEN",
+        "sector": "Financials",
+        "description": "Franklin Resources, Inc."
+    },
+    "Freeport-McMoRan": {
+        "ticker": "FCX",
+        "sector": "Materials",
+        "description": "Freeport-McMoRan Inc., often called Freeport, is an American mining company based in the Freeport-McMoRan Center, in Phoenix, Arizona."
+    },
+    "Garmin": {
+        "ticker": "GRMN",
+        "sector": "Consumer Discretionary",
+        "description": "Garman is a surname or first name."
+    },
+    "Gartner": {
+        "ticker": "IT",
+        "sector": "Information Technology",
+        "description": "A garter is an article of clothing comprising a narrow band of fabric fastened about the leg to keep up stockings."
+    },
+    "GE Aerospace": {
+        "ticker": "GE",
+        "sector": "Industrials",
+        "description": "General Electric Company, doing business as GE Aerospace, is an American aircraft engine supplier that is headquartered in Evendale, Ohio, outside Cincinnati."
+    },
+    "GE HealthCare": {
+        "ticker": "GEHC",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "GE Vernova": {
+        "ticker": "GEV",
+        "sector": "Industrials",
+        "description": "GE Vernova, Inc., is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts."
+    },
+    "Gen Digital": {
+        "ticker": "GEN",
+        "sector": "Information Technology",
+        "description": "Gen Digital Inc."
+    },
+    "Generac": {
+        "ticker": "GNRC",
+        "sector": "Industrials",
+        "description": "A general officer is an officer of high rank in the armies, and in some nations' air and space forces, marines or naval infantry."
+    },
+    "General Dynamics": {
+        "ticker": "GD",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "General Mills": {
+        "ticker": "GIS",
+        "sector": "Consumer Staples",
+        "description": "General Mills, Inc."
+    },
+    "General Motors": {
+        "ticker": "GM",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Genuine Parts Company": {
+        "ticker": "GPC",
+        "sector": "Consumer Discretionary",
+        "description": "Genuine Parts Company (GPC) is an American automotive and industrial parts distributor based in Atlanta, Georgia."
+    },
+    "Gilead Sciences": {
+        "ticker": "GILD",
+        "sector": "Health Care",
+        "description": "Gilead Sciences, Inc."
+    },
+    "Global Payments": {
+        "ticker": "GPN",
+        "sector": "Financials",
+        "description": "Global Payments Inc."
+    },
+    "Globe Life": {
+        "ticker": "GL",
+        "sector": "Financials",
+        "description": "Globe Life Inc."
+    },
+    "GoDaddy": {
+        "ticker": "GDDY",
+        "sector": "Information Technology",
+        "description": "GoDaddy Inc."
+    },
+    "Goldman Sachs": {
+        "ticker": "GS",
+        "sector": "Financials",
+        "description": "The Goldman Sachs Group, Inc."
+    },
+    "Halliburton": {
+        "ticker": "HAL",
+        "sector": "Energy",
+        "description": "Halliburton Company is an American multinational corporation and the world's second-largest oil service company which is responsible for most of the world's fracking operations."
+    },
+    "Hartford (The)": {
+        "ticker": "HIG",
+        "sector": "Financials",
+        "description": "The Hartford Insurance Group, Inc., usually known as The Hartford, is an American investment and insurance company."
+    },
+    "Hasbro": {
+        "ticker": "HAS",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "HCA Healthcare": {
+        "ticker": "HCA",
+        "sector": "Health Care",
+        "description": "HCA Healthcare, Inc."
+    },
+    "Healthpeak Properties": {
+        "ticker": "DOC",
+        "sector": "Real Estate",
+        "description": "Healthpeak Properties, Inc."
+    },
+    "Henry Schein": {
+        "ticker": "HSIC",
+        "sector": "Health Care",
+        "description": "Henry Schein, Inc."
+    },
+    "Hershey Company (The)": {
+        "ticker": "HSY",
+        "sector": "Consumer Staples",
+        "description": "The Hershey Company, often called just Hershey or Hershey's, is an American multinational confectionery company headquartered in Hershey, Pennsylvania, which is also home to Hersheypark and Hershey's Chocolate World."
+    },
+    "Hewlett Packard Enterprise": {
+        "ticker": "HPE",
+        "sector": "Information Technology",
+        "description": "The Hewlett Packard Enterprise Company (HPE) is an American multinational information technology company based in Spring, Texas."
+    },
+    "Hilton Worldwide": {
+        "ticker": "HLT",
+        "sector": "Consumer Discretionary",
+        "description": "Hilton Worldwide Holdings Inc."
+    },
+    "Hologic": {
+        "ticker": "HOLX",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Home Depot (The)": {
+        "ticker": "HD",
+        "sector": "Consumer Discretionary",
+        "description": "The Home Depot, Inc., often referred to as Home Depot, is an American multinational home improvement retail corporation that sells tools, construction products, appliances, and services, including fuel and transportation rentals."
+    },
+    "Honeywell": {
+        "ticker": "HON",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Hormel Foods": {
+        "ticker": "HRL",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Host Hotels & Resorts": {
+        "ticker": "HST",
+        "sector": "Real Estate",
+        "description": "Host Hotels & Resorts, Inc., based in Bethesda, Maryland, is an American real estate investment trust that invests in hotels."
+    },
+    "Howmet Aerospace": {
+        "ticker": "HWM",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "HP Inc.": {
+        "ticker": "HPQ",
+        "sector": "Information Technology",
+        "description": "HP Inc."
+    },
+    "Hubbell Incorporated": {
+        "ticker": "HUBB",
+        "sector": "Industrials",
+        "description": "Hubbell Incorporated, headquartered in Shelton, Connecticut, is an American company that designs, manufactures, and sells electrical and electronic products for non-residential and residential construction, industrial, and utility applications."
+    },
+    "Humana": {
+        "ticker": "HUM",
+        "sector": "Health Care",
+        "description": "Humans (Homo sapiens) or modern humans are the most common and widespread species of primate, and the last surviving species of the genus Homo."
+    },
+    "Huntington Bancshares": {
+        "ticker": "HBAN",
+        "sector": "Financials",
+        "description": "Huntington Bancshares Incorporated is an American bank holding company headquartered in Columbus, Ohio."
+    },
+    "Huntington Ingalls Industries": {
+        "ticker": "HII",
+        "sector": "Industrials",
+        "description": "Huntington Ingalls Industries, Inc."
+    },
+    "IBM": {
+        "ticker": "IBM",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "IDEX Corporation": {
+        "ticker": "IEX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Idexx Laboratories": {
+        "ticker": "IDXX",
+        "sector": "Health Care",
+        "description": "IDEXX Laboratories, Inc."
+    },
+    "Illinois Tool Works": {
+        "ticker": "ITW",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Incyte": {
+        "ticker": "INCY",
+        "sector": "Health Care",
+        "description": "Incyte Corporation is an American multinational pharmaceutical company with headquarters in Wilmington, Delaware."
+    },
+    "Ingersoll Rand": {
+        "ticker": "IR",
+        "sector": "Industrials",
+        "description": "Ingersoll Rand Inc."
+    },
+    "Insulet Corporation": {
+        "ticker": "PODD",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Intel": {
+        "ticker": "INTC",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Intercontinental Exchange": {
+        "ticker": "ICE",
+        "sector": "Financials",
+        "description": "Intercontinental Exchange, Inc."
+    },
+    "International Flavors & Fragrances": {
+        "ticker": "IFF",
+        "sector": "Materials",
+        "description": "International Flavors & Fragrances Inc."
+    },
+    "International Paper": {
+        "ticker": "IP",
+        "sector": "Materials",
+        "description": "The International Paper Company is an American pulp and paper company, the largest such company in the world."
+    },
+    "Interpublic Group of Companies (The)": {
+        "ticker": "IPG",
+        "sector": "Communication Services",
+        "description": "The Interpublic Group of Companies, Inc."
+    },
+    "Intuit": {
+        "ticker": "INTU",
+        "sector": "Information Technology",
+        "description": "Inuit (singular: Inuk) are a group of culturally and historically similar Indigenous peoples traditionally inhabiting the Arctic and Subarctic regions of North America and Russia, including Greenland, Labrador, Quebec, Nunavut, the Northwest Territories, Yukon (traditionally), Alaska, and the Chukotsky District of Chukotka Autonomous Okrug."
+    },
+    "Intuitive Surgical": {
+        "ticker": "ISRG",
+        "sector": "Health Care",
+        "description": "Intuitive Surgical, Inc."
+    },
+    "Invesco": {
+        "ticker": "IVZ",
+        "sector": "Financials",
+        "description": "An investor is a person who allocates financial capital with the expectation of a future return (profit) or to gain an advantage (interest)."
+    },
+    "Invitation Homes": {
+        "ticker": "INVH",
+        "sector": "Real Estate",
+        "description": "Invitation Homes Inc."
+    },
+    "IQVIA": {
+        "ticker": "IQV",
+        "sector": "Health Care",
+        "description": "IQVIA Holdings, Inc., headquartered in Durham, North Carolina, is an American company focused on health information technology and clinical research."
+    },
+    "Iron Mountain": {
+        "ticker": "IRM",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "J.B. Hunt": {
+        "ticker": "JBHT",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Jabil": {
+        "ticker": "JBL",
+        "sector": "Information Technology",
+        "description": "Jabir (Arabic: جابر pronounced [ˈd͡ʒaːbɪr]) is an Arabic surname or male given name, which means \"comforter\"."
+    },
+    "Jack Henry & Associates": {
+        "ticker": "JKHY",
+        "sector": "Financials",
+        "description": "Jack Henry and Associates, also known as Jack Henry is an American company founded in 1976 and devoted to financial technology and payment processing services, mostly for community banks and credit unions."
+    },
+    "Jacobs Solutions": {
+        "ticker": "J",
+        "sector": "Industrials",
+        "description": "Jacobs Solutions Inc."
+    },
+    "Johnson & Johnson": {
+        "ticker": "JNJ",
+        "sector": "Health Care",
+        "description": "Johnson & Johnson (J&J) is an American multinational pharmaceutical, biotechnology, and medical technologies corporation headquartered in New Brunswick, New Jersey, and publicly traded on the New York Stock Exchange."
+    },
+    "Johnson Controls": {
+        "ticker": "JCI",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "JPMorgan Chase": {
+        "ticker": "JPM",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Kellanova": {
+        "ticker": "K",
+        "sector": "Consumer Staples",
+        "description": "Mars, Incorporated (doing business as Mars Inc.) is an American multinational manufacturer of confectionery, pet food, and other food products and a provider of animal care services founded on June 23, 1911, headquartered in McLean, Virginia, and is entirely owned by the Mars family."
+    },
+    "Kenvue": {
+        "ticker": "KVUE",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Keurig Dr Pepper": {
+        "ticker": "KDP",
+        "sector": "Consumer Staples",
+        "description": "Keurig Dr Pepper Inc."
+    },
+    "KeyCorp": {
+        "ticker": "KEY",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Keysight Technologies": {
+        "ticker": "KEYS",
+        "sector": "Information Technology",
+        "description": "Keysight Technologies, Inc."
+    },
+    "Kimberly-Clark": {
+        "ticker": "KMB",
+        "sector": "Consumer Staples",
+        "description": "Kimberly-Clark Corporation is an American multinational consumer goods and personal care corporation that produces mostly paper-based consumer products."
+    },
+    "Kimco Realty": {
+        "ticker": "KIM",
+        "sector": "Real Estate",
+        "description": "Kimco Realty Corporation is a Jericho, New York-based real estate investment trust that invests in shopping centers."
+    },
+    "Kinder Morgan": {
+        "ticker": "KMI",
+        "sector": "Energy",
+        "description": "Kinder Morgan, Inc."
+    },
+    "KKR & Co.": {
+        "ticker": "KKR",
+        "sector": "Financials",
+        "description": "KKR & Co."
+    },
+    "KLA Corporation": {
+        "ticker": "KLAC",
+        "sector": "Information Technology",
+        "description": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment."
+    },
+    "Kraft Heinz": {
+        "ticker": "KHC",
+        "sector": "Consumer Staples",
+        "description": "The Kraft Heinz Company (KHC), commonly known as Kraft Heinz (), is an American multinational food company formed by the merger of Kraft Foods Group, Inc."
+    },
+    "Kroger": {
+        "ticker": "KR",
+        "sector": "Consumer Staples",
+        "description": "Krüger, Krueger, Kreuger and Kruger (without the umlaut ü) are German surnames originating from Krüger, meaning tavern-keeper in Low German and potter in Central German and Upper German, both associated with the Germanic word wikt:Krug, \"jug\"."
+    },
+    "L3Harris": {
+        "ticker": "LHX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Labcorp": {
+        "ticker": "LH",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Lam Research": {
+        "ticker": "LRCX",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Lamb Weston": {
+        "ticker": "LW",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "Las Vegas Sands": {
+        "ticker": "LVS",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Leidos": {
+        "ticker": "LDOS",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Lennar": {
+        "ticker": "LEN",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Lennox International": {
+        "ticker": "LII",
+        "sector": "Industrials",
+        "description": "Lennox International Inc."
+    },
+    "Lilly (Eli)": {
+        "ticker": "LLY",
+        "sector": "Health Care",
+        "description": "Eli Lilly (July 8, 1838 – June 6, 1898) was a Union Army officer, pharmacist, chemist, and businessman who founded Eli Lilly and Company."
+    },
+    "Linde plc": {
+        "ticker": "LIN",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Live Nation Entertainment": {
+        "ticker": "LYV",
+        "sector": "Communication Services",
+        "description": "Live Nation Entertainment, Inc."
+    },
+    "LKQ Corporation": {
+        "ticker": "LKQ",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Lockheed Martin": {
+        "ticker": "LMT",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Loews Corporation": {
+        "ticker": "L",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Lowe's": {
+        "ticker": "LOW",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Lululemon Athletica": {
+        "ticker": "LULU",
+        "sector": "Consumer Discretionary",
+        "description": "Lululemon, commonly styled as lululemon (  loo-loo-LEM-ən; all lowercase), is a Canadian multinational athletic apparel retailer headquartered in Vancouver, British Columbia, and incorporated in Delaware, United States, as Lululemon Athletica Inc."
+    },
+    "LyondellBasell": {
+        "ticker": "LYB",
+        "sector": "Materials",
+        "description": "LyondellBasell Industries N.V is an American multinational chemical company, incorporated in the Netherlands with U.S. operations headquartered in Houston, Texas and offices in London, UK.  The company is the largest licensor of polyethylene and polypropylene technologies."
+    },
+    "M&T Bank": {
+        "ticker": "MTB",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Marathon Petroleum": {
+        "ticker": "MPC",
+        "sector": "Energy",
+        "description": "Marathon Petroleum Corporation is an American petroleum refining, marketing, and transportation company headquartered in Findlay, Ohio."
+    },
+    "MarketAxess": {
+        "ticker": "MKTX",
+        "sector": "Financials",
+        "description": "MarketAxess Holdings Inc."
+    },
+    "Marriott International": {
+        "ticker": "MAR",
+        "sector": "Consumer Discretionary",
+        "description": "Marriott International, Inc."
+    },
+    "Marsh McLennan": {
+        "ticker": "MMC",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Martin Marietta Materials": {
+        "ticker": "MLM",
+        "sector": "Materials",
+        "description": "Martin Marietta Materials, Inc."
+    },
+    "Masco": {
+        "ticker": "MAS",
+        "sector": "Industrials",
+        "description": "A mascot is any human, animal, or object thought to bring luck, or anything used to represent a group with a common public identity, such as a school, sports team, society, military unit, or brand name."
+    },
+    "Mastercard": {
+        "ticker": "MA",
+        "sector": "Financials",
+        "description": "The following is a glossary of terms used in card games."
+    },
+    "Match Group": {
+        "ticker": "MTCH",
+        "sector": "Communication Services",
+        "description": "Match Group, Inc."
+    },
+    "McCormick & Company": {
+        "ticker": "MKC",
+        "sector": "Consumer Staples",
+        "description": "McCormick & Company, Incorporated is an American food company that manufactures, markets, and distributes spices, seasoning mixes, condiments, and other flavoring products to retail outlets, food manufacturers, and food service businesses."
+    },
+    "McDonald's": {
+        "ticker": "MCD",
+        "sector": "Consumer Discretionary",
+        "description": "McDonald's Corporation, doing business as McDonald's, is an American multinational fast food chain."
+    },
+    "McKesson Corporation": {
+        "ticker": "MCK",
+        "sector": "Health Care",
+        "description": "McKesson Corporation is an American publicly traded company that distributes pharmaceuticals and provides health information technology, medical supplies, and health management tools."
+    },
+    "Medtronic": {
+        "ticker": "MDT",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Merck & Co.": {
+        "ticker": "MRK",
+        "sector": "Health Care",
+        "description": "Merck & Co., Inc."
+    },
+    "Meta Platforms": {
+        "ticker": "META",
+        "sector": "Communication Services",
+        "description": "Meta Platforms, Inc."
+    },
+    "MetLife": {
+        "ticker": "MET",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Mettler Toledo": {
+        "ticker": "MTD",
+        "sector": "Health Care",
+        "description": "Mettler Toledo, stylized in all caps, is a multinational supplier of precision instruments and services."
+    },
+    "MGM Resorts": {
+        "ticker": "MGM",
+        "sector": "Consumer Discretionary",
+        "description": "MGM Resorts International is an American  multinational hospitality, sports and entertainment company."
+    },
+    "Microchip Technology": {
+        "ticker": "MCHP",
+        "sector": "Information Technology",
+        "description": "Microchip Technology Incorporated is an American publicly traded semiconductor corporation that manufactures microcontroller, mixed-signal, analog, and Flash-IP integrated circuits."
+    },
+    "Micron Technology": {
+        "ticker": "MU",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Microsoft": {
+        "ticker": "MSFT",
+        "sector": "Information Technology",
+        "description": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington."
+    },
+    "Mid-America Apartment Communities": {
+        "ticker": "MAA",
+        "sector": "Real Estate",
+        "description": "Mid-America Apartment Communities, Inc."
+    },
+    "Moderna": {
+        "ticker": "MRNA",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Mohawk Industries": {
+        "ticker": "MHK",
+        "sector": "Consumer Discretionary",
+        "description": "Mohawk Industries is an American flooring manufacturer based in Calhoun, Georgia."
+    },
+    "Molina Healthcare": {
+        "ticker": "MOH",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Molson Coors Beverage Company": {
+        "ticker": "TAP",
+        "sector": "Consumer Staples",
+        "description": "Molson Coors Beverage Company is a Canadian-American multinational drink and brewing company headquartered in Chicago, Illinois."
+    },
+    "Mondelez International": {
+        "ticker": "MDLZ",
+        "sector": "Consumer Staples",
+        "description": "Mondelēz International, Inc."
+    },
+    "Monolithic Power Systems": {
+        "ticker": "MPWR",
+        "sector": "Information Technology",
+        "description": "Monolithic Power Systems, Inc."
+    },
+    "Monster Beverage": {
+        "ticker": "MNST",
+        "sector": "Consumer Staples",
+        "description": "Monster Beverage Corporation is an American beverage company that manufactures energy drinks including Monster Energy, Relentless, Reign and Burn."
+    },
+    "Moody's Corporation": {
+        "ticker": "MCO",
+        "sector": "Financials",
+        "description": "Moody's Corporation is an American business and financial services company."
+    },
+    "Morgan Stanley": {
+        "ticker": "MS",
+        "sector": "Financials",
+        "description": "Morgan Stanley is an American multinational investment bank and financial services company headquartered at 1585 Broadway in Midtown Manhattan, New York City."
+    },
+    "Mosaic Company (The)": {
+        "ticker": "MOS",
+        "sector": "Materials",
+        "description": "The Mosaic Company is an American chemical company based in Tampa, Florida, which mines phosphate, potash, and collects urea for fertilizer, through various international distribution networks, and Mosaic Fertilizantes."
+    },
+    "Motorola Solutions": {
+        "ticker": "MSI",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "MSCI Inc.": {
+        "ticker": "MSCI",
+        "sector": "Financials",
+        "description": "MSCI Inc."
+    },
+    "Nasdaq, Inc.": {
+        "ticker": "NDAQ",
+        "sector": "Financials",
+        "description": "Nasdaq, Inc."
+    },
+    "NetApp": {
+        "ticker": "NTAP",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Netflix": {
+        "ticker": "NFLX",
+        "sector": "Communication Services",
+        "description": "Netflix is an American subscription video on-demand over-the-top streaming service."
+    },
+    "Newmont": {
+        "ticker": "NEM",
+        "sector": "Materials",
+        "description": ""
+    },
+    "News Corp (Class A)": {
+        "ticker": "NWSA",
+        "sector": "Communication Services",
+        "description": "The second and current incarnation of News Corporation, doing business as News Corp, is an American mass media and publishing company headquartered at 1211 Avenue of the Americas in Midtown Manhattan, New York City."
+    },
+    "News Corp (Class B)": {
+        "ticker": "NWS",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "NextEra Energy": {
+        "ticker": "NEE",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Nike, Inc.": {
+        "ticker": "NKE",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "NiSource": {
+        "ticker": "NI",
+        "sector": "Utilities",
+        "description": "NiSource Inc."
+    },
+    "Nordson Corporation": {
+        "ticker": "NDSN",
+        "sector": "Industrials",
+        "description": "Nordson Corporation is an American multinational corporation that designs and manufactures dispensing equipment for consumer and industrial adhesives, sealants and coatings."
+    },
+    "Norfolk Southern": {
+        "ticker": "NSC",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Northern Trust": {
+        "ticker": "NTRS",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Northrop Grumman": {
+        "ticker": "NOC",
+        "sector": "Industrials",
+        "description": "Northrop Grumman Corporation, headquartered in West Falls Church, Virginia, is an aerospace manufacturer active in the arms industry and the space industry."
+    },
+    "Norwegian Cruise Line Holdings": {
+        "ticker": "NCLH",
+        "sector": "Consumer Discretionary",
+        "description": "Norwegian Cruise Line Holdings (NCLH) is a holding company that is based in the United States and domiciled in Bermuda ."
+    },
+    "NRG Energy": {
+        "ticker": "NRG",
+        "sector": "Utilities",
+        "description": "NRG Energy, Inc."
+    },
+    "Nucor": {
+        "ticker": "NUE",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Nvidia": {
+        "ticker": "NVDA",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "NVR, Inc.": {
+        "ticker": "NVR",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "NXP Semiconductors": {
+        "ticker": "NXPI",
+        "sector": "Information Technology",
+        "description": "NXP Semiconductors N.V. is a Dutch semiconductor manufacturing and design company with headquarters in Eindhoven, Netherlands."
+    },
+    "O’Reilly Automotive": {
+        "ticker": "ORLY",
+        "sector": "Consumer Discretionary",
+        "description": "O’Reilly Automotive, Inc., doing business as O’Reilly Auto Parts, is an American automotive part retailer that provides automotive parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers."
+    },
+    "Occidental Petroleum": {
+        "ticker": "OXY",
+        "sector": "Energy",
+        "description": "Occidental Petroleum Corporation (often abbreviated Oxy in reference to its ticker symbol and logo) is an American company engaged in hydrocarbon exploration in the United States and the Middle East as well as petrochemical manufacturing in the United States, Canada, and Chile."
+    },
+    "Old Dominion": {
+        "ticker": "ODFL",
+        "sector": "Industrials",
+        "description": "Old Dominion is an American country music band formed in Nashville."
+    },
+    "Omnicom Group": {
+        "ticker": "OMC",
+        "sector": "Communication Services",
+        "description": "Omnicom Group Inc."
+    },
+    "ON Semiconductor": {
+        "ticker": "ON",
+        "sector": "Information Technology",
+        "description": "A semiconductor is a material with electrical conductivity between that of a conductor and an insulator."
+    },
+    "Oneok": {
+        "ticker": "OKE",
+        "sector": "Energy",
+        "description": "1 (one, unit, unity) is a number, numeral, and glyph."
+    },
+    "Oracle Corporation": {
+        "ticker": "ORCL",
+        "sector": "Information Technology",
+        "description": "Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas."
+    },
+    "Otis Worldwide": {
+        "ticker": "OTIS",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Paccar": {
+        "ticker": "PCAR",
+        "sector": "Industrials",
+        "description": "Paccar Inc."
+    },
+    "Packaging Corporation of America": {
+        "ticker": "PKG",
+        "sector": "Materials",
+        "description": "Packaging Corporation of America is an American manufacturing company based in Lake Forest, Illinois."
+    },
+    "Palantir Technologies": {
+        "ticker": "PLTR",
+        "sector": "Information Technology",
+        "description": "Palantir Technologies Inc."
+    },
+    "Palo Alto Networks": {
+        "ticker": "PANW",
+        "sector": "Information Technology",
+        "description": "Palo Alto Networks, Inc."
+    },
+    "Paramount Global": {
+        "ticker": "PARA",
+        "sector": "Communication Services",
+        "description": "Paramount Global (d/b/a Paramount) is an American multinational mass media and entertainment conglomerate controlled by National Amusements and headquartered at One Astor Plaza in Times Square, Midtown Manhattan."
+    },
+    "Parker Hannifin": {
+        "ticker": "PH",
+        "sector": "Industrials",
+        "description": "Parker-Hannifin Corporation, originally Parker Appliance Company, usually referred to as just Parker, is an American corporation specializing in motion and control technologies."
+    },
+    "Paychex": {
+        "ticker": "PAYX",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Paycom": {
+        "ticker": "PAYC",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "PayPal": {
+        "ticker": "PYPL",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Pentair": {
+        "ticker": "PNR",
+        "sector": "Industrials",
+        "description": "Peninsula Airways, operated as PenAir, was a U.S.-based regional airline headquartered in Anchorage, Alaska."
+    },
+    "PepsiCo": {
+        "ticker": "PEP",
+        "sector": "Consumer Staples",
+        "description": "Pepsi is a carbonated soft drink with a cola flavor, manufactured by PepsiCo which serves as its flagship product."
+    },
+    "Pfizer": {
+        "ticker": "PFE",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "PG&E Corporation": {
+        "ticker": "PCG",
+        "sector": "Utilities",
+        "description": "The Pacific Gas and Electric Company (PG&E) is an American investor-owned utility (IOU)."
+    },
+    "Philip Morris International": {
+        "ticker": "PM",
+        "sector": "Consumer Staples",
+        "description": "Philip Morris International Inc."
+    },
+    "Phillips 66": {
+        "ticker": "PSX",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Pinnacle West Capital": {
+        "ticker": "PNW",
+        "sector": "Utilities",
+        "description": "Pinnacle West Capital Corporation is an American utility holding company that owns Arizona Public Service (APS)."
+    },
+    "PNC Financial Services": {
+        "ticker": "PNC",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Pool Corporation": {
+        "ticker": "POOL",
+        "sector": "Consumer Discretionary",
+        "description": "Pool Corporation, doing business as POOLCORP, is the largest distributor of supplies, equipment, and machinery for swimming pools worldwide."
+    },
+    "PPG Industries": {
+        "ticker": "PPG",
+        "sector": "Materials",
+        "description": "PPG Industries, Inc."
+    },
+    "PPL Corporation": {
+        "ticker": "PPL",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Principal Financial Group": {
+        "ticker": "PFG",
+        "sector": "Financials",
+        "description": "Principal Financial Group, Inc."
+    },
+    "Procter & Gamble": {
+        "ticker": "PG",
+        "sector": "Consumer Staples",
+        "description": "The Procter & Gamble Company (P&G) is an American multinational consumer goods corporation headquartered in Cincinnati, Ohio and incorporated in Ohio."
+    },
+    "Progressive Corporation": {
+        "ticker": "PGR",
+        "sector": "Financials",
+        "description": "The Progressive Corporation is an American insurance company."
+    },
+    "Prologis": {
+        "ticker": "PLD",
+        "sector": "Real Estate",
+        "description": "Prolog is a logic programming language that has its origins in artificial intelligence, automated theorem proving,  and computational linguistics."
+    },
+    "Prudential Financial": {
+        "ticker": "PRU",
+        "sector": "Financials",
+        "description": "Prudential Financial, Inc."
+    },
+    "Public Service Enterprise Group": {
+        "ticker": "PEG",
+        "sector": "Utilities",
+        "description": "The Public Service Enterprise Group, Inc."
+    },
+    "PTC Inc.": {
+        "ticker": "PTC",
+        "sector": "Information Technology",
+        "description": "PTC Inc."
+    },
+    "Public Storage": {
+        "ticker": "PSA",
+        "sector": "Real Estate",
+        "description": "Public Storage, headquartered in Glendale, California, is a real estate investment trust that invests in self storage."
+    },
+    "PulteGroup": {
+        "ticker": "PHM",
+        "sector": "Consumer Discretionary",
+        "description": "PulteGroup, Inc."
+    },
+    "Quanta Services": {
+        "ticker": "PWR",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Qualcomm": {
+        "ticker": "QCOM",
+        "sector": "Information Technology",
+        "description": "Qualcomm Incorporated () is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware."
+    },
+    "Quest Diagnostics": {
+        "ticker": "DGX",
+        "sector": "Health Care",
+        "description": "Quest Diagnostics Incorporated is an American clinical laboratory."
+    },
+    "Ralph Lauren Corporation": {
+        "ticker": "RL",
+        "sector": "Consumer Discretionary",
+        "description": "Ralph Lauren Corporation is a publicly traded American fashion and lifestyle brand founded in 1967 by Ralph Lauren in New York City."
+    },
+    "Raymond James Financial": {
+        "ticker": "RJF",
+        "sector": "Financials",
+        "description": "Raymond James Financial, Inc."
+    },
+    "RTX Corporation": {
+        "ticker": "RTX",
+        "sector": "Industrials",
+        "description": "RTX Corporation, formerly Raytheon Technologies Corporation, is an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia."
+    },
+    "Realty Income": {
+        "ticker": "O",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "Regency Centers": {
+        "ticker": "REG",
+        "sector": "Real Estate",
+        "description": "Regency Centers Corporation is a real estate investment trust based in Jacksonville, Florida and is one of the largest operators of shopping centers with grocery stores as anchor tenants."
+    },
+    "Regeneron Pharmaceuticals": {
+        "ticker": "REGN",
+        "sector": "Health Care",
+        "description": "Regeneron Pharmaceuticals, Inc."
+    },
+    "Regions Financial Corporation": {
+        "ticker": "RF",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Republic Services": {
+        "ticker": "RSG",
+        "sector": "Industrials",
+        "description": "Republic Services, Inc."
+    },
+    "ResMed": {
+        "ticker": "RMD",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Revvity": {
+        "ticker": "RVTY",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Rockwell Automation": {
+        "ticker": "ROK",
+        "sector": "Industrials",
+        "description": "Rockwell Automation, Inc."
+    },
+    "Rollins, Inc.": {
+        "ticker": "ROL",
+        "sector": "Industrials",
+        "description": "Rollins, Inc."
+    },
+    "Roper Technologies": {
+        "ticker": "ROP",
+        "sector": "Information Technology",
+        "description": "Roper Technologies, Inc."
+    },
+    "Ross Stores": {
+        "ticker": "ROST",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Royal Caribbean Group": {
+        "ticker": "RCL",
+        "sector": "Consumer Discretionary",
+        "description": "Royal Caribbean Group, formerly known as Royal Caribbean Cruises Ltd., is a cruise holding company based in Miami, Florida, United States and incorporated in Liberia."
+    },
+    "S&P Global": {
+        "ticker": "SPGI",
+        "sector": "Financials",
+        "description": "S&P Global Inc."
+    },
+    "Salesforce": {
+        "ticker": "CRM",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "SBA Communications": {
+        "ticker": "SBAC",
+        "sector": "Real Estate",
+        "description": "SBA Communications Corporation is a real estate investment trust which owns and operates wireless infrastructure in the United States, Canada, Central America, South America, and South Africa."
+    },
+    "Schlumberger": {
+        "ticker": "SLB",
+        "sector": "Energy",
+        "description": "Schlumberger (French: [ʃlumbɛʁʒe, ʃlœ̃b-]), doing business as SLB, is a global multinational oilfield services company."
+    },
+    "Seagate Technology": {
+        "ticker": "STX",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Sempra": {
+        "ticker": "SRE",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "ServiceNow": {
+        "ticker": "NOW",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Sherwin-Williams": {
+        "ticker": "SHW",
+        "sector": "Materials",
+        "description": ""
+    },
+    "Simon Property Group": {
+        "ticker": "SPG",
+        "sector": "Real Estate",
+        "description": "Simon Property Group, Inc."
+    },
+    "Skyworks Solutions": {
+        "ticker": "SWKS",
+        "sector": "Information Technology",
+        "description": "Skyworks Solutions, Inc."
+    },
+    "J.M. Smucker Company (The)": {
+        "ticker": "SJM",
+        "sector": "Consumer Staples",
+        "description": "The J.M. Smucker Company, also known as Smuckers, is an American manufacturer of food and beverage products."
+    },
+    "Smurfit Westrock": {
+        "ticker": "SW",
+        "sector": "Materials",
+        "description": "Smurfit Westrock plc is an Irish company based in Dublin, Ireland that manufactures corrugated and paper-based packaging."
+    },
+    "Snap-on": {
+        "ticker": "SNA",
+        "sector": "Industrials",
+        "description": "Snap-on Incorporated is an American designer, manufacturer, and marketer of high-end tools and equipment for professional use in the transportation industry, including the automotive, heavy duty, equipment, marine, aviation, and railroad industries."
+    },
+    "Solventum": {
+        "ticker": "SOLV",
+        "sector": "Health Care",
+        "description": "A solvent (from the Latin solvō, \"loosen, untie, solve\") is a substance that dissolves a solute, resulting in a solution."
+    },
+    "Southern Company": {
+        "ticker": "SO",
+        "sector": "Utilities",
+        "description": "Southern Company is an American gas and electric utility holding company based in the Southern United States."
+    },
+    "Southwest Airlines": {
+        "ticker": "LUV",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Stanley Black & Decker": {
+        "ticker": "SWK",
+        "sector": "Industrials",
+        "description": "Stanley Black & Decker, Inc., formerly known as The Stanley Works, is an American manufacturer of industrial tools and household hardware, and a provider of security products."
+    },
+    "Starbucks": {
+        "ticker": "SBUX",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "State Street Corporation": {
+        "ticker": "STT",
+        "sector": "Financials",
+        "description": "State Street Corporation is an American multinational financial services and bank holding company headquartered at One Congress Street in Boston."
+    },
+    "Steel Dynamics": {
+        "ticker": "STLD",
+        "sector": "Materials",
+        "description": "Steel Dynamics, Inc."
+    },
+    "Steris": {
+        "ticker": "STE",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Stryker Corporation": {
+        "ticker": "SYK",
+        "sector": "Health Care",
+        "description": "Stryker Corporation is an American multinational medical technologies corporation based in Kalamazoo, Michigan."
+    },
+    "Supermicro": {
+        "ticker": "SMCI",
+        "sector": "Information Technology",
+        "description": "Super Micro Computer, Inc., doing business as Supermicro, is an American information technology company based in San Jose, California."
+    },
+    "Synchrony Financial": {
+        "ticker": "SYF",
+        "sector": "Financials",
+        "description": "Synchrony Financial is an American consumer financial services company with its headquarters in Stamford, Connecticut, United States."
+    },
+    "Synopsys": {
+        "ticker": "SNPS",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Sysco": {
+        "ticker": "SYY",
+        "sector": "Consumer Staples",
+        "description": ""
+    },
+    "T-Mobile US": {
+        "ticker": "TMUS",
+        "sector": "Communication Services",
+        "description": "T-Mobile US, Inc."
+    },
+    "T. Rowe Price": {
+        "ticker": "TROW",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Take-Two Interactive": {
+        "ticker": "TTWO",
+        "sector": "Communication Services",
+        "description": "Take-Two Interactive Software, Inc."
+    },
+    "Tapestry, Inc.": {
+        "ticker": "TPR",
+        "sector": "Consumer Discretionary",
+        "description": "Tapestry, Inc."
+    },
+    "Targa Resources": {
+        "ticker": "TRGP",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Target Corporation": {
+        "ticker": "TGT",
+        "sector": "Consumer Staples",
+        "description": "Target Corporation, or simply Target, is an American retail corporation that operates a chain of discount department stores and hypermarkets, headquartered in Minneapolis, Minnesota."
+    },
+    "TE Connectivity": {
+        "ticker": "TEL",
+        "sector": "Information Technology",
+        "description": "TE Connectivity plc is an American-Irish domiciled technology company that designs and manufactures electrical and electronic components."
+    },
+    "Teledyne Technologies": {
+        "ticker": "TDY",
+        "sector": "Information Technology",
+        "description": "Teledyne Technologies Incorporated is an American industrial conglomerate."
+    },
+    "Teradyne": {
+        "ticker": "TER",
+        "sector": "Information Technology",
+        "description": "Teradyne, Inc."
+    },
+    "Tesla, Inc.": {
+        "ticker": "TSLA",
+        "sector": "Consumer Discretionary",
+        "description": "Tesla, Inc."
+    },
+    "Texas Instruments": {
+        "ticker": "TXN",
+        "sector": "Information Technology",
+        "description": "Texas Instruments Incorporated (TI) is an American multinational semiconductor company headquartered in Dallas, Texas."
+    },
+    "Texas Pacific Land Corporation": {
+        "ticker": "TPL",
+        "sector": "Energy",
+        "description": "The Texas Pacific Land Corporation is a publicly traded real estate operating company with its administrative office in Dallas, Texas."
+    },
+    "Textron": {
+        "ticker": "TXT",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Thermo Fisher Scientific": {
+        "ticker": "TMO",
+        "sector": "Health Care",
+        "description": "Thermo Fisher Scientific Inc."
+    },
+    "TJX Companies": {
+        "ticker": "TJX",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "TKO Group Holdings": {
+        "ticker": "TKO",
+        "sector": "Communication Services",
+        "description": "TKO Group Holdings, Inc."
+    },
+    "Trade Desk (The)": {
+        "ticker": "TTD",
+        "sector": "Communication Services",
+        "description": "The Trade Desk, Inc."
+    },
+    "Tractor Supply": {
+        "ticker": "TSCO",
+        "sector": "Consumer Discretionary",
+        "description": "Tractor Supply Company (also known as TSCO or TSC), founded in 1938, is an American chain store that sells home improvement, agriculture, lawn and garden maintenance, livestock, equine and pet care equipment and supplies."
+    },
+    "Trane Technologies": {
+        "ticker": "TT",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "TransDigm Group": {
+        "ticker": "TDG",
+        "sector": "Industrials",
+        "description": "TransDigm Group Incorporated is an American publicly traded aerospace manufacturing company headquartered in Cleveland, Ohio."
+    },
+    "Travelers Companies (The)": {
+        "ticker": "TRV",
+        "sector": "Financials",
+        "description": "The Travelers Companies, Inc., commonly known as Travelers, is an American multinational insurance company."
+    },
+    "Trimble Inc.": {
+        "ticker": "TRMB",
+        "sector": "Information Technology",
+        "description": "Trimble Inc."
+    },
+    "Truist Financial": {
+        "ticker": "TFC",
+        "sector": "Financials",
+        "description": "Truist Financial Corporation () is an American bank holding company headquartered in Charlotte, North Carolina."
+    },
+    "Tyler Technologies": {
+        "ticker": "TYL",
+        "sector": "Information Technology",
+        "description": "Tyler Technologies, Inc., based in Plano, Texas, is a provider of proprietary software to the United States public sector."
+    },
+    "Tyson Foods": {
+        "ticker": "TSN",
+        "sector": "Consumer Staples",
+        "description": "Tyson Foods, Inc."
+    },
+    "U.S. Bancorp": {
+        "ticker": "USB",
+        "sector": "Financials",
+        "description": "U.S. Bancorp (stylized as us bancorp) is an American multinational financial services firm headquartered in Minneapolis, Minnesota and incorporated in Delaware."
+    },
+    "Uber": {
+        "ticker": "UBER",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "UDR, Inc.": {
+        "ticker": "UDR",
+        "sector": "Real Estate",
+        "description": "UDR Inc."
+    },
+    "Ulta Beauty": {
+        "ticker": "ULTA",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Union Pacific Corporation": {
+        "ticker": "UNP",
+        "sector": "Industrials",
+        "description": "Union Pacific Corporation is a publicly traded railroad holding company."
+    },
+    "United Airlines Holdings": {
+        "ticker": "UAL",
+        "sector": "Industrials",
+        "description": "United Airlines, Inc."
+    },
+    "United Parcel Service": {
+        "ticker": "UPS",
+        "sector": "Industrials",
+        "description": "United Parcel Service, Inc."
+    },
+    "United Rentals": {
+        "ticker": "URI",
+        "sector": "Industrials",
+        "description": "United Rentals, Inc."
+    },
+    "UnitedHealth Group": {
+        "ticker": "UNH",
+        "sector": "Health Care",
+        "description": "UnitedHealth Group Incorporated is a healthcare  company based in Eden Prairie, Minnesota."
+    },
+    "Universal Health Services": {
+        "ticker": "UHS",
+        "sector": "Health Care",
+        "description": "Universal Health Services, Inc."
+    },
+    "Valero Energy": {
+        "ticker": "VLO",
+        "sector": "Energy",
+        "description": "Valero Energy Corporation is an American-based fuels producer mostly involved in manufacturing and marketing transportation fuels and other related products."
+    },
+    "Ventas": {
+        "ticker": "VTR",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "Veralto": {
+        "ticker": "VLTO",
+        "sector": "Industrials",
+        "description": ""
+    },
+    "Verisign": {
+        "ticker": "VRSN",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Verisk Analytics": {
+        "ticker": "VRSK",
+        "sector": "Industrials",
+        "description": "Verisk Analytics, Inc."
+    },
+    "Verizon": {
+        "ticker": "VZ",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "Vertex Pharmaceuticals": {
+        "ticker": "VRTX",
+        "sector": "Health Care",
+        "description": "Vertex Pharmaceuticals Incorporated is an American biopharmaceutical company based in Boston, Massachusetts."
+    },
+    "Viatris": {
+        "ticker": "VTRS",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Vici Properties": {
+        "ticker": "VICI",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "Visa Inc.": {
+        "ticker": "V",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Vistra Corp.": {
+        "ticker": "VST",
+        "sector": "Utilities",
+        "description": ""
+    },
+    "Vulcan Materials Company": {
+        "ticker": "VMC",
+        "sector": "Materials",
+        "description": "Vulcan Materials Company (NYSE: VMC) is an American company based in Birmingham, Alabama."
+    },
+    "W. R. Berkley Corporation": {
+        "ticker": "WRB",
+        "sector": "Financials",
+        "description": "W. R. Berkley Corporation is an American commercial lines property and casualty insurance holding company organized in Delaware and based in Greenwich, Connecticut."
+    },
+    "W. W. Grainger": {
+        "ticker": "GWW",
+        "sector": "Industrials",
+        "description": "W. W. Grainger, Inc."
+    },
+    "Wabtec": {
+        "ticker": "WAB",
+        "sector": "Industrials",
+        "description": "Westinghouse Air Brake Technologies Corporation, commonly known as Wabtec, is an American company formed by the merger of the Westinghouse Air Brake Company (WABCO) and MotivePower in 1999."
+    },
+    "Walgreens Boots Alliance": {
+        "ticker": "WBA",
+        "sector": "Consumer Staples",
+        "description": "Walgreens Boots Alliance, Inc."
+    },
+    "Walmart": {
+        "ticker": "WMT",
+        "sector": "Consumer Staples",
+        "description": "Peckham Rock, also called Wall Art, is a 2005 artwork by British street artist Banksy, in the form of a lump of concrete decorated in the style of a cave painting and depicting \"a supposed prehistoric figure pushing a shopping trolley\"."
+    },
+    "Walt Disney Company (The)": {
+        "ticker": "DIS",
+        "sector": "Communication Services",
+        "description": "The Walt Disney Company, commonly referred to as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California."
+    },
+    "Warner Bros. Discovery": {
+        "ticker": "WBD",
+        "sector": "Communication Services",
+        "description": ""
+    },
+    "Waste Management": {
+        "ticker": "WM",
+        "sector": "Industrials",
+        "description": "Waste management or waste disposal includes the processes and actions required to manage waste from its inception to its final disposal."
+    },
+    "Waters Corporation": {
+        "ticker": "WAT",
+        "sector": "Health Care",
+        "description": "Waters Corporation, headquartered in Milford, Massachusetts, provides analytical instruments and software used for chromatography, mass spectrometry, laboratory informatics, and rheometry by the life, materials and food sciences industries."
+    },
+    "WEC Energy Group": {
+        "ticker": "WEC",
+        "sector": "Utilities",
+        "description": "WEC Energy Group is an American energy company based in Milwaukee, Wisconsin."
+    },
+    "Wells Fargo": {
+        "ticker": "WFC",
+        "sector": "Financials",
+        "description": ""
+    },
+    "Welltower": {
+        "ticker": "WELL",
+        "sector": "Real Estate",
+        "description": ""
+    },
+    "West Pharmaceutical Services": {
+        "ticker": "WST",
+        "sector": "Health Care",
+        "description": "West Pharmaceutical Services, Inc."
+    },
+    "Western Digital": {
+        "ticker": "WDC",
+        "sector": "Information Technology",
+        "description": ""
+    },
+    "Weyerhaeuser": {
+        "ticker": "WY",
+        "sector": "Real Estate",
+        "description": "The Weyerhaeuser Company ( WAIR-how-zər) is an American timberland company which owns nearly 12,400,000 acres (19,400 sq mi; 50,000 km2) of timberlands in the U.S., and manages an additional 14,000,000 acres (22,000 sq mi; 57,000 km2) of timberlands under long-term licenses in Canada."
+    },
+    "Williams-Sonoma, Inc.": {
+        "ticker": "WSM",
+        "sector": "Consumer Discretionary",
+        "description": ""
+    },
+    "Williams Companies": {
+        "ticker": "WMB",
+        "sector": "Energy",
+        "description": ""
+    },
+    "Willis Towers Watson": {
+        "ticker": "WTW",
+        "sector": "Financials",
+        "description": "Willis Towers Watson plc, branded as WTW and stylised in its logo as wtw, is a British-American multinational company that provides commercial insurance brokerage services, strategic risk management services (such as contingency planning, security audits, and product tampering plans), employee benefits and compensation management, and actuarial analysis and investment management for pension plans and financial endowments."
+    },
+    "Workday, Inc.": {
+        "ticker": "WDAY",
+        "sector": "Information Technology",
+        "description": "Workday, Inc., is an American on‑demand (cloud-based) financial management, human capital management, and student information system software vendor."
+    },
+    "Wynn Resorts": {
+        "ticker": "WYNN",
+        "sector": "Consumer Discretionary",
+        "description": "Wynn Resorts, Limited is an American publicly traded corporation based in Paradise, Nevada, that is a developer and operator of high-end hotels and casinos."
+    },
+    "Xcel Energy": {
+        "ticker": "XEL",
+        "sector": "Utilities",
+        "description": "Xcel Energy Inc."
+    },
+    "Xylem Inc.": {
+        "ticker": "XYL",
+        "sector": "Industrials",
+        "description": "Xylem Inc."
+    },
+    "Yum! Brands": {
+        "ticker": "YUM",
+        "sector": "Consumer Discretionary",
+        "description": "Yum!"
+    },
+    "Zebra Technologies": {
+        "ticker": "ZBRA",
+        "sector": "Information Technology",
+        "description": "Zebra Technologies Corporation is an American mobile computing company specializing in technology used to sense, analyze, and act in real time."
+    },
+    "Zimmer Biomet": {
+        "ticker": "ZBH",
+        "sector": "Health Care",
+        "description": "Zimmer Biomet Holdings, Inc."
+    },
+    "Zoetis": {
+        "ticker": "ZTS",
+        "sector": "Health Care",
+        "description": ""
+    },
+    "Tencent": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": ""
+    },
+    "Alibaba": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": "\"Ali Baba and the Forty Thieves\" (Arabic: علي بابا والأربعون لصا) is a folk tale in Arabic added to the One Thousand and One Nights in the 18th century by its French translator Antoine Galland, who heard it from Syrian storyteller Hanna Diyab."
+    },
+    "Xiaomi": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": ""
+    },
+    "Meituan": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": ""
+    },
+    "BYD Electronic": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": "BYD Company Limited or BYD (Chinese: 比亚迪; pinyin: Bǐyàdí) is a Chinese multinational manufacturing conglomerate headquartered in Shenzhen, Guangdong, China."
+    },
+    "Sunny Optical": {
+        "ticker": null,
+        "sector": "HK Tech",
+        "description": "Sunny Optical Technology (Group) Company Limited, known as Sunny Optical or just Sunny is a Chinese civilian-run enterprise and listed company that produces optical lenses."
+    }
+}
